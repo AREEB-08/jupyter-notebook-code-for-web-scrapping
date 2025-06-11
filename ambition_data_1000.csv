@@ -1,0 +1,981 @@
+,Company,Rating,Reviews,company_type,salary,Interview_count,Jobs_available,highly_rated_for,critically_rated_for
+0,TCS,3.6k,97.1k,"IT Services & Consulting - Bangalore , Bengaluru +413 other locations",9.1L,11k,190,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+1,Accenture,3.8k,62.6k,"IT Services & Consulting - Bangalore , Bengaluru +227 other locations",6.1L,8.6k,11.6k,N/A,"Promotions / Appraisal, Salary & Benefits"
+2,Wipro,3.7k,56.8k,"IT Services & Consulting - Bangalore , Bengaluru +358 other locations",4.6L,6k,6.7k,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+3,Cognizant,3.7k,54k,"IT Services & Consulting - Hyderabad , Secunderabad +212 other locations",5.9L,5.9k,672,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+4,Capgemini,3.7k,45.6k,"IT Services & Consulting - Bangalore , Bengaluru +172 other locations",4.5L,5k,1.6k,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+5,HDFC Bank,3.9k,43k,Banking - Mumbai +1693 other locations,1.4L,2.4k,181,"Job Security, Skill Development / Learning",Promotions / Appraisal
+6,Infosys,3.6k,42.5k,"IT Services & Consulting - Bangalore , Bengaluru +228 other locations",4.9L,7.9k,1.8k,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+7,ICICI Bank,4.0k,41.6k,Banking - Mumbai +1392 other locations,1.5L,2.6k,3,"Job Security, Skill Development / Learning, Company Culture",N/A
+8,HCLTech,3.5k,39.2k,IT Services & Consulting - Chennai +216 other locations,3.5L,4.1k,393,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+9,Tech Mahindra,3.5k,37.8k,"IT Services & Consulting - Hyderabad , Secunderabad +320 other locations",2.7L,4.1k,405,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+10,Genpact,3.8k,35.4k,"IT Services & Consulting - Hyderabad , Secunderabad +160 other locations",2.1L,3.4k,449,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+11,Teleperformance,3.9k,32.1k,BPO - Mumbai +245 other locations,92k,1.9k,341,"Company Culture, Work Life Balance, Job Security",N/A
+12,Concentrix Corporation,3.7k,28.3k,"BPO - Bangalore , Bengaluru +165 other locations",1.2L,1.7k,121,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+13,Axis Bank,3.7k,27.9k,Banking - Mumbai +1421 other locations,1L,1.6k,202,N/A,"Promotions / Appraisal, Work Satisfaction"
+14,Amazon,4.0k,27k,"Internet - Bangalore , Bengaluru +498 other locations",1.3L,5.3k,2.9k,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal
+15,Jio,4.0k,25.3k,Telecom - Mumbai +1416 other locations,60.8k,2.2k,56,"Job Security, Skill Development / Learning, Company Culture",N/A
+16,iEnergizer,4.7k,24.4k,BPO - Noida +44 other locations,22.8k,749,287,"Company Culture, Job Security, Skill Development / Learning",N/A
+17,Reliance Retail,3.9k,24k,Retail - Mumbai +1086 other locations,66.5k,1.7k,124,"Skill Development / Learning, Job Security",Promotions / Appraisal
+18,IBM,4.0k,23.4k,"IT Services & Consulting - Bangalore , Bengaluru +159 other locations",2L,2.4k,1.8k,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+19,LTIMindtree,3.7k,22.5k,"IT Services & Consulting - Bangalore , Bengaluru +133 other locations",1.8L,3k,385,N/A,"Promotions / Appraisal, Salary & Benefits"
+20,HDB Financial Services,3.9k,22.1k,NBFC - Mumbai +1028 other locations,49.4k,901,233,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal
+21,Larsen & Toubro Limited,3.9k,20k,Engineering & Construction - Chennai +706 other locations,69.5k,1.5k,205,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Life Balance"
+22,Deloitte,3.8k,19.3k,"Management Consulting - Hyderabad , Secunderabad +165 other locations",2.1L,3k,69,"Job Security, Skill Development / Learning","Work Life Balance, Promotions / Appraisal, Work Satisfaction"
+23,Kotak Mahindra Bank,3.7k,18.9k,Banking - Mumbai +648 other locations,82.8k,1.2k,65,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+24,Reliance Industries,4.0k,17.3k,Oil & Gas - Jamnagar +761 other locations,68.2k,1.4k,46,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal
+25,BYJU'S,3.1k,16.3k,"EdTech - Bangalore , Bengaluru +321 other locations",57.7k,2.1k,--,N/A,"Job Security, Company Culture, Work Life Balance"
+26,Vodafone Idea,4.0k,16.1k,Telecom - Pune +685 other locations,51.4k,585,18,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal
+27,Bharti Airtel,3.9k,15k,"Telecom - Gurgaon , Gurugram +749 other locations",47.3k,936,519,Skill Development / Learning,Promotions / Appraisal
+28,WNS,3.3k,13k,BPO - Pune +56 other locations,64.3k,1.1k,200,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+29,Tata Motors,4.2k,12.8k,Automobile - Pune +485 other locations,40.2k,1.1k,140,"Job Security, Company Culture, Work Life Balance",N/A
+30,AU Small Finance Bank,4.2k,12.3k,Banking - Jaipur +723 other locations,26.6k,576,53,"Job Security, Skill Development / Learning, Company Culture",N/A
+31,IndusInd Bank,3.5k,11.9k,Banking - Mumbai +751 other locations,49.1k,668,148,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+32,Ernst & Young,3.4k,11.8k,"Management Consulting - Bangalore , Bengaluru +120 other locations",1.2L,1.2k,3.3k,N/A,"Work Life Balance, Promotions / Appraisal, Company Culture"
+33,IDFC FIRST Bank,3.9k,11.5k,Banking - Mumbai +662 other locations,45.1k,736,32,Salary & Benefits,N/A
+34,Flipkart,3.9k,11.4k,"Internet - Bangalore , Bengaluru +542 other locations",49.8k,1.4k,150,Skill Development / Learning,Promotions / Appraisal
+35,DXC Technology,3.7k,10.7k,"IT Services & Consulting - Bangalore , Bengaluru +127 other locations",72.9k,830,236,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+36,Infosys BPM,3.6k,10.6k,"BPO - Bangalore , Bengaluru +87 other locations",68.2k,1k,78,Job Security,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction"
+37,Mahindra & Mahindra,4.1k,10.4k,Automobile - Pune +530 other locations,36.8k,727,23,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+38,Bajaj Finserv,4.0k,10.3k,Financial Services - Pune +1049 other locations,27.9k,579,28,"Salary & Benefits, Skill Development / Learning, Job Security",N/A
+39,PwC,3.4k,10.3k,"Management Consulting - Bangalore , Bengaluru +120 other locations",98.1k,1.4k,1.6k,N/A,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+40,HDFC Life,3.9k,10.1k,Insurance - Mumbai +639 other locations,31.1k,666,26,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+41,Conneqt Business Solutions,3.6k,9.3k,"BPO - Hyderabad , Secunderabad +252 other locations",26.8k,505,385,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+42,Mphasis,3.3k,9k,"IT Services & Consulting - Bangalore , Bengaluru +57 other locations",70k,839,122,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+43,Bandhan Bank,3.7k,8.6k,Banking - Kolkata +907 other locations,23.1k,605,3,Job Security,"Promotions / Appraisal, Work Satisfaction"
+44,Yes Bank,3.7k,8.6k,Banking - Mumbai +497 other locations,41.7k,470,172,N/A,"Work Satisfaction, Job Security, Promotions / Appraisal"
+45,Tata Steel,4.0k,8.3k,Iron & Steel - Jamshedpur +212 other locations,30.7k,912,--,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+46,Startek,3.1k,8.2k,"Bangalore , Bengaluru +99 other locations",23.5k,520,65,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+47,Quess,3.8k,8k,"BPO - Bangalore , Bengaluru +650 other locations",29.1k,456,43,N/A,"Promotions / Appraisal, Job Security"
+48,Asian Paints,4.0k,8k,Chemicals - Mumbai +502 other locations,22.8k,697,37,"Salary & Benefits, Skill Development / Learning, Job Security","Work Life Balance, Promotions / Appraisal"
+49,Paytm,3.2k,8k,FinTech - Noida +375 other locations,31.8k,789,260,N/A,"Job Security, Company Culture, Promotions / Appraisal"
+50,UltraTech Cement,4.2k,7.8k,Building Material - Mumbai +486 other locations,21.7k,647,303,"Job Security, Skill Development / Learning, Company Culture",N/A
+51,Maruti Suzuki,4.2k,7.7k,"Automobile - Gurgaon , Gurugram +409 other locations",24.9k,636,617,"Job Security, Salary & Benefits, Skill Development / Learning",N/A
+52,Samsung,3.9k,7.7k,Consumer Electronics & Appliances - Noida +553 other locations,25.8k,571,40,Salary & Benefits,Promotions / Appraisal
+53,Shriram Finance,4.0k,7.7k,NBFC - Chennai +1033 other locations,14k,369,23,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+54,Ericsson,4.1k,7.6k,Telecom - Noida +157 other locations,41.7k,430,131,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+55,EXL Service,3.7k,7.6k,IT Services & Consulting - Noida +58 other locations,40.8k,795,208,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+56,Muthoot Fincorp,4.5k,7.5k,"NBFC - Bangalore , Bengaluru +892 other locations",8.4k,622,36,"Company Culture, Work Life Balance, Job Security",N/A
+57,Sutherland Global Services,3.5k,7.6k,IT Services & Consulting - Chennai +72 other locations,31k,684,243,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+58,Bajaj Finance,4.0k,7.5k,NBFC - Pune +878 other locations,21.7k,346,2,"Salary & Benefits, Skill Development / Learning, Job Security",N/A
+59,Cipla,4.1k,7.4k,Pharma - Mumbai +268 other locations,24.5k,523,148,"Skill Development / Learning, Salary & Benefits, Company Culture",N/A
+60,Dr. Reddy's,4.0k,7.2k,"Pharma - Hyderabad , Secunderabad +199 other locations",24.5k,425,40,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal
+61,HGS,3.8k,7.1k,"BPO - Bangalore , Bengaluru +117 other locations",22k,250,25,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+62,Wells Fargo,3.8k,7.1k,"Financial Services - Bangalore , Bengaluru +26 other locations",51.1k,608,284,"Work Life Balance, Job Security","Promotions / Appraisal, Skill Development / Learning, Work Satisfaction"
+63,Amazon Development Centre India,4.0k,6.8k,"Internet - Hyderabad , Secunderabad +135 other locations",34k,808,14,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal
+64,ICICI Prudential Life Insurance,4.0k,6.8k,Insurance - Mumbai +484 other locations,22.1k,424,279,"Job Security, Skill Development / Learning, Salary & Benefits",N/A
+65,JPMorgan Chase & Co.,3.9k,6.7k,"Financial Services - Bangalore , Bengaluru +51 other locations",75.4k,784,763,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+66,Jana Small Finance Bank,3.8k,6.6k,"Banking - Bangalore , Bengaluru +390 other locations",13.9k,260,35,N/A,Promotions / Appraisal
+67,Optum Global Solutions,4.0k,6.7k,"IT Services & Consulting - Hyderabad , Secunderabad +50 other locations",42.1k,669,333,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+68,Delhivery,3.8k,6.6k,"Logistics - Gurgaon , Gurugram +698 other locations",19.4k,503,106,N/A,Promotions / Appraisal
+69,Hexaware Technologies,3.5k,6.5k,IT Services & Consulting - Chennai +65 other locations,49.1k,749,216,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+70,Lupin,4.1k,6.5k,Pharma - Pune +188 other locations,21.9k,372,151,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+71,L&T Construction,4.0k,6.5k,Engineering & Construction - Chennai +401 other locations,18.3k,811,--,"Job Security, Skill Development / Learning, Salary & Benefits","Work Life Balance, Promotions / Appraisal"
+72,JSW Steel,3.9k,6.4k,Iron & Steel - Ballari +168 other locations,27.8k,654,92,"Job Security, Skill Development / Learning",Promotions / Appraisal
+73,Zydus Lifesciences,4.1k,6.4k,Pharma - Ahmedabad +168 other locations,18.8k,353,33,"Salary & Benefits, Skill Development / Learning, Company Culture",N/A
+74,Hindustan Unilever,4.2k,6.4k,FMCG - Mumbai +497 other locations,19.2k,397,55,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal
+75,Equitas Small Finance Bank,4.4k,6.3k,Banking - Chennai +430 other locations,12.1k,465,1.9k,"Company Culture, Work Life Balance, Job Security",N/A
+76,Sun Pharmaceutical Industries,4.0k,6.2k,Pharma - Vadodara +234 other locations,22k,443,307,"Salary & Benefits, Job Security, Skill Development / Learning",N/A
+77,ITC,3.9k,6.1k,"FMCG - Bangalore , Bengaluru +352 other locations",22.4k,602,85,"Job Security, Skill Development / Learning",Promotions / Appraisal
+78,KPMG India,3.5k,6.1k,"Management Consulting - Bangalore , Bengaluru +103 other locations",56.3k,837,1.4k,N/A,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+79,Ujjivan Small Finance Bank,4.1k,5.9k,"Banking - Bangalore , Bengaluru +500 other locations",12.5k,257,55,"Company Culture, Work Life Balance, Job Security",N/A
+80,Ekart Logistics,3.9k,6k,"Bangalore , Bengaluru +693 other locations",14.1k,343,--,Skill Development / Learning,Promotions / Appraisal
+81,Axis Max Life Insurance,4.1k,5.9k,Insurance - New Delhi +455 other locations,18.3k,342,332,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+82,FIS,3.9k,5.8k,FinTech - Pune +57 other locations,37.8k,500,65,"Work Life Balance, Company Culture",Promotions / Appraisal
+83,HCL Group,3.6k,5.8k,IT Services & Consulting - Chennai +92 other locations,45.1k,478,1,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+84,Tata Projects,4.2k,5.7k,Engineering & Construction - Mumbai +262 other locations,20.5k,490,29,"Job Security, Salary & Benefits, Company Culture",N/A
+85,Megha Engineering & Infrastructures,3.9k,5.7k,"Engineering & Construction - Hyderabad , Secunderabad +363 other locations",16.7k,487,23,Job Security,Promotions / Appraisal
+86,IIFL Finance,4.0k,5.6k,NBFC - Mumbai +750 other locations,14.1k,279,8,"Work Life Balance, Company Culture, Job Security",N/A
+87,Indian Army,4.7k,5.6k,Defence & Aerospace - New Delhi +345 other locations,9.4k,167,--,"Job Security, Company Culture, Work Satisfaction",N/A
+88,Oracle,3.7k,5.5k,"Software Product - Bangalore , Bengaluru +53 other locations",57.5k,889,957,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+89,L&T Technology Services,3.3k,5.5k,"IT Services & Consulting - Bangalore , Bengaluru +87 other locations",39.3k,568,587,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+90,Coforge,3.3k,5.4k,IT Services & Consulting - Noida +100 other locations,42.7k,581,352,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+91,Muthoot Finance,3.6k,5.4k,"NBFC - Bangalore , Bengaluru +721 other locations",12.5k,282,118,N/A,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+92,eClerx,3.3k,5.4k,IT Services & Consulting - Pune +28 other locations,29.3k,567,140,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+93,JLL,4.1k,5.3k,"Real Estate - Gurgaon , Gurugram +73 other locations",21.8k,401,938,"Job Security, Company Culture, Work Life Balance",N/A
+94,Virtusa Consulting Services,3.7k,5.4k,"IT Services & Consulting - Hyderabad , Secunderabad +50 other locations",53.3k,611,23,N/A,"Promotions / Appraisal, Job Security, Salary & Benefits"
+95,Bajaj Allianz Life Insurance,3.9k,5.4k,Insurance - Pune +562 other locations,16.1k,369,96,Salary & Benefits,N/A
+96,Omega Healthcare,3.7k,5.3k,BPO - Chennai +63 other locations,23.8k,474,212,N/A,"Promotions / Appraisal, Salary & Benefits"
+97,HSBC Group,3.9k,5.3k,"Financial Services - Bangalore , Bengaluru +60 other locations",37.9k,507,207,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+98,Udaan,3.9k,5.2k,"Internet - Bangalore , Bengaluru +349 other locations",15.6k,344,10,"Salary & Benefits, Work Life Balance, Skill Development / Learning","Job Security, Promotions / Appraisal"
+99,Aurobindo Pharma,4.0k,5.1k,"Pharma - Hyderabad , Secunderabad +101 other locations",21.1k,255,12,"Job Security, Salary & Benefits, Work Life Balance",N/A
+100,Indiamart Intermesh,3.6k,5.2k,Internet - Noida +163 other locations,19k,681,640,N/A,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+101,Siemens,4.0k,5.1k,"Industrial Automation - Bangalore , Bengaluru +146 other locations",30.6k,449,964,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+102,Cholamandalam Investment & Finance,3.9k,5.1k,Financial Services - Chennai +752 other locations,11k,214,37,Salary & Benefits,N/A
+103,Shapoorji Pallonji Group,4.1k,5.1k,Engineering & Construction - Mumbai +184 other locations,14.8k,362,44,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+104,Standard Chartered,3.6k,5k,Banking - Chennai +67 other locations,39.9k,287,651,N/A,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+105,DMart,3.9k,5k,Retail - Mumbai +231 other locations,16.5k,441,187,"Job Security, Company Culture",Promotions / Appraisal
+106,ICICI Lombard General Insurance Company,3.6k,4.9k,Insurance - Mumbai +292 other locations,18.7k,310,101,N/A,"Promotions / Appraisal, Work Satisfaction, Work Life Balance"
+107,Apollo Hospitals,4.1k,4.9k,Healthcare - Chennai +210 other locations,15.7k,391,52,"Job Security, Skill Development / Learning, Company Culture",N/A
+108,Firstsource Solutions,3.6k,5k,"BPO - Bangalore , Bengaluru +65 other locations",22.4k,318,107,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+109,CGI Group,4.0k,5k,"IT Services & Consulting - Bangalore , Bengaluru +41 other locations",44.2k,520,299,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+110,Bosch Global Software Technologies,3.8k,4.9k,"IT Services & Consulting - Bangalore , Bengaluru +39 other locations",36.9k,356,6,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+111,GlobalLogic,3.6k,4.9k,"IT Services & Consulting - Hyderabad , Secunderabad +53 other locations",36.9k,619,40,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+112,Cyient,3.7k,4.8k,"IT Services & Consulting - Hyderabad , Secunderabad +42 other locations",26.3k,302,107,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+113,BigBasket,3.9k,4.8k,"Internet - Bangalore , Bengaluru +126 other locations",17.4k,389,76,"Job Security, Skill Development / Learning",Promotions / Appraisal
+114,Ashok Leyland,4.1k,4.8k,Automobile - Chennai +230 other locations,17.6k,267,--,"Skill Development / Learning, Work Life Balance, Company Culture",Promotions / Appraisal
+115,Citicorp,3.7k,4.8k,Financial Services - Pune +65 other locations,45.8k,584,--,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+116,UST,3.8k,4.8k,"IT Services & Consulting - Bangalore , Bengaluru +48 other locations",37.5k,539,189,Work Life Balance,"Promotions / Appraisal, Salary & Benefits"
+117,Mahindra Finance,4.0k,4.8k,NBFC - Mumbai +689 other locations,11.4k,166,34,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal
+118,SMFG India Credit,4.0k,4.7k,NBFC - Mumbai +554 other locations,10.5k,174,110,"Salary & Benefits, Job Security",N/A
+119,Hero MotoCorp,4.1k,4.7k,"Automobile - Gurgaon , Gurugram +338 other locations",14.5k,365,--,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+120,Manappuram Finance,3.9k,4.6k,"NBFC - Bangalore , Bengaluru +577 other locations",8.2k,171,4,"Promotions / Appraisal, Skill Development / Learning",N/A
+121,JustDial,3.5k,4.6k,Internet - Noida +206 other locations,14.7k,354,52,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+122,Eviden,3.6k,4.6k,IT Services & Consulting - Pune +36 other locations,30.4k,305,43,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+123,Swiggy,3.8k,4.5k,"Internet - Bangalore , Bengaluru +214 other locations",20.8k,461,196,N/A,"Job Security, Promotions / Appraisal, Work Satisfaction"
+124,Vivo,4.1k,4.6k,Consumer Electronics & Appliances - Noida +400 other locations,12.8k,204,2,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal
+125,BNY,3.8k,4.5k,Financial Services - Pune +22 other locations,28.8k,361,56,"Work Life Balance, Company Culture","Promotions / Appraisal, Job Security"
+126,IQVIA,3.8k,4.5k,"Clinical Research - Bangalore , Bengaluru +58 other locations",28.3k,485,36,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+127,Kalpataru Projects International,4.1k,4.5k,Engineering & Construction - Mumbai +287 other locations,12.6k,274,2,"Job Security, Company Culture, Work Life Balance",N/A
+128,SBI Cards & Payment Services,3.7k,4.5k,Financial Services - New Delhi +394 other locations,15.5k,255,91,N/A,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+129,TVS Motor,3.9k,4.4k,Automobile - Hosur +324 other locations,14.8k,341,66,"Skill Development / Learning, Job Security, Salary & Benefits",Promotions / Appraisal
+130,Atos,3.8k,4.4k,IT Services & Consulting - Pune +48 other locations,33.2k,390,119,Work Life Balance,"Promotions / Appraisal, Salary & Benefits"
+131,Home Credit Finance,4.1k,4.4k,"NBFC - Gurgaon , Gurugram +125 other locations",9.5k,120,105,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal
+132,CBRE,4.1k,4.4k,"Real Estate - Hyderabad , Secunderabad +85 other locations",17k,296,53,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+133,Persistent Systems,3.6k,4.3k,IT Services & Consulting - Pune +41 other locations,40.2k,635,187,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+134,PolicyBazaar,3.7k,4.4k,"Internet - Gurgaon , Gurugram +126 other locations",15.6k,464,293,Salary & Benefits,"Work Life Balance, Company Culture, Work Satisfaction"
+135,Nagarro,4.0k,4.3k,"IT Services & Consulting - Gurgaon , Gurugram +47 other locations",28k,785,273,"Work Life Balance, Company Culture, Skill Development / Learning",N/A
+136,OPPO,4.0k,4.2k,Consumer Electronics & Appliances - Greater Noida +387 other locations,11.9k,225,12,Skill Development / Learning,"Promotions / Appraisal, Job Security"
+137,Amdocs,3.7k,4.3k,Software Product - Pune +21 other locations,35.7k,528,54,Company Culture,"Promotions / Appraisal, Work Satisfaction, Job Security"
+138,JBM Group,4.0k,4.2k,"Auto Components - Gurgaon , Gurugram +103 other locations",13.5k,302,39,"Job Security, Skill Development / Learning",Promotions / Appraisal
+139,State Bank of India,3.8k,4.2k,Banking - Mumbai +555 other locations,10.7k,266,1,"Job Security, Salary & Benefits",Work Life Balance
+140,SBI Life Insurance Company,3.8k,4.3k,Insurance - Mumbai +597 other locations,10.9k,258,5,Job Security,"Promotions / Appraisal, Work Satisfaction"
+141,NTT Data,3.8k,4.2k,"IT Services & Consulting - Bangalore , Bengaluru +67 other locations",30.7k,652,19,"Work Life Balance, Job Security",Promotions / Appraisal
+142,Schneider Electric,4.1k,4.2k,"Industrial Automation - Bangalore , Bengaluru +116 other locations",21.9k,383,309,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+143,Nagarjuna Construction Company,4.1k,4.2k,"Engineering & Construction - Hyderabad , Secunderabad +261 other locations",10.8k,349,10,"Job Security, Skill Development / Learning, Salary & Benefits",N/A
+144,Bosch,4.2k,4.1k,"Auto Components - Bangalore , Bengaluru +115 other locations",19.6k,344,407,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+145,Dell,3.9k,4.1k,"Consumer Electronics & Appliances - Bangalore , Bengaluru +109 other locations",27.5k,404,38,"Work Life Balance, Company Culture",Promotions / Appraisal
+146,Hewlett Packard Enterprise,4.2k,4.1k,"IT Services & Consulting - Bangalore , Bengaluru +96 other locations",26k,244,1,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+147,Mahindra Logistics,3.9k,4.1k,Logistics - Mumbai +226 other locations,13k,217,10,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits"
+148,Ecom Express,3.8k,4.1k,"Logistics - Gurgaon , Gurugram +693 other locations",9.1k,218,10,N/A,"Promotions / Appraisal, Job Security"
+149,KEC International,4.0k,4k,Engineering & Construction - Mumbai +293 other locations,12k,344,--,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal
+150,Piramal Capital Housing Finance,4.2k,4.1k,NBFC - Mumbai +361 other locations,9.2k,202,2,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+151,Varun Beverages,4.0k,3.9k,Beverage - New Delhi +334 other locations,11k,262,35,"Job Security, Salary & Benefits",Promotions / Appraisal
+152,Aditya Birla Fashion and Retail,4.1k,3.9k,"Fashion & Textile - Bangalore , Bengaluru +265 other locations",12.3k,229,90,"Job Security, Skill Development / Learning, Company Culture",N/A
+153,Randstad,3.7k,3.9k,"Recruitment - Hyderabad , Secunderabad +308 other locations",15.1k,284,66,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+154,Deutsche Bank,3.8k,3.8k,Banking - Pune +42 other locations,32.7k,383,587,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Skill Development / Learning"
+155,Hyundai Motor India Limited,4.3k,3.9k,Automobile - Chennai +272 other locations,12.8k,287,--,"Job Security, Skill Development / Learning, Salary & Benefits",N/A
+156,CARS24,3.5k,3.9k,"Internet - Gurgaon , Gurugram +164 other locations",14.6k,359,88,N/A,"Job Security, Promotions / Appraisal, Company Culture"
+157,Havells,3.9k,3.8k,Electrical Equipment - Noida +227 other locations,12.8k,233,38,"Work Life Balance, Salary & Benefits",Promotions / Appraisal
+158,ITC Infotech,3.6k,3.8k,"IT Services & Consulting - Bangalore , Bengaluru +63 other locations",28.2k,365,87,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+159,EY Global Delivery Services ( EY GDS),3.5k,3.8k,"Accounting & Auditing - Bangalore , Bengaluru +47 other locations",36.4k,796,10,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance"
+160,R1 RCM,3.8k,3.8k,BPO - New Delhi +42 other locations,19.5k,307,418,"Company Culture, Job Security",Promotions / Appraisal
+161,Intas Pharmaceuticals,4.1k,3.7k,Pharma - Ahmedabad +134 other locations,16.3k,230,21,"Job Security, Salary & Benefits, Work Life Balance",N/A
+162,L&T Finance,3.9k,3.8k,NBFC - Mumbai +549 other locations,11k,171,1,Salary & Benefits,Promotions / Appraisal
+163,Bajaj Auto,3.8k,3.7k,Automobile - Pune +290 other locations,13.4k,287,157,N/A,Promotions / Appraisal
+164,Team Lease,3.9k,3.7k,"Recruitment - Bangalore , Bengaluru +371 other locations",15k,223,2,N/A,Promotions / Appraisal
+165,Oyo Rooms,3.2k,3.6k,"Internet - Gurgaon , Gurugram +118 other locations",17.9k,227,81,N/A,"Job Security, Work Satisfaction, Promotions / Appraisal"
+166,Reliance Communications,4.0k,3.6k,Telecom - Mumbai +455 other locations,9.9k,97,--,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal
+167,Tata AIA Life Insurance,4.0k,3.6k,Insurance - Mumbai +388 other locations,12.7k,200,543,"Job Security, Skill Development / Learning, Salary & Benefits",N/A
+168,Access Healthcare,3.9k,3.6k,Analytics & KPO - Chennai +48 other locations,22k,228,229,"Job Security, Company Culture",Promotions / Appraisal
+169,John Deere,4.1k,3.6k,Industrial Machinery - Pune +136 other locations,14.7k,244,13,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+170,Tata Communications,4.0k,3.6k,Telecom - Pune +98 other locations,22.9k,271,25,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+171,Macleods Pharmaceuticals,3.6k,3.6k,Pharma - Mumbai +115 other locations,15k,222,5,Job Security,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+172,Hetero,3.8k,3.6k,"Pharma - Hyderabad , Secunderabad +59 other locations",14.4k,247,41,Job Security,"Promotions / Appraisal, Salary & Benefits"
+173,Thermax Limited,4.2k,3.6k,Industrial Machinery - Pune +222 other locations,12.1k,276,51,"Job Security, Company Culture, Skill Development / Learning",N/A
+174,LG Electronics,3.9k,3.6k,Consumer Electronics & Appliances - Pune +278 other locations,10.2k,223,--,"Job Security, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal
+175,Royal Enfield,4.2k,3.6k,Automobile - Chennai +346 other locations,13.6k,167,--,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+176,HDFC Ergo General Insurance,3.9k,3.5k,Insurance - Mumbai +296 other locations,11.5k,165,--,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+177,Aakash Educational Services,3.4k,3.5k,Education & Training - New Delhi +230 other locations,12k,326,75,N/A,"Work Life Balance, Promotions / Appraisal, Work Satisfaction"
+178,VE Commercial Vehicles,4.0k,3.5k,Automobile - Indore +144 other locations,12.8k,231,18,"Job Security, Skill Development / Learning",Promotions / Appraisal
+179,Utkarsh Small Finance Bank,3.8k,3.5k,Banking - Varanasi +352 other locations,10.2k,241,11,N/A,Promotions / Appraisal
+180,Carelon Global Solutions,3.9k,3.4k,"Software Product - Bangalore , Bengaluru +17 other locations",25.5k,380,21,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal
+181,Cummins,4.3k,3.4k,Industrial Machinery - Pune +106 other locations,14.8k,250,92,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+182,DCB Bank,3.8k,3.4k,Banking - Mumbai +326 other locations,9.3k,195,242,Work Life Balance,Promotions / Appraisal
+183,Viatris,4.2k,3.4k,"Pharma - Hyderabad , Secunderabad +75 other locations",13.6k,145,5,"Salary & Benefits, Job Security, Work Life Balance",N/A
+184,Berger Paints,3.7k,3.4k,Chemicals - Kolkata +302 other locations,8.9k,298,210,N/A,"Promotions / Appraisal, Company Culture, Work Life Balance"
+185,Bank of America,4.2k,3.4k,"Banking - Gurgaon , Gurugram +33 other locations",26k,257,2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+186,Publicis Sapient,3.5k,3.4k,"IT Services & Consulting - Bangalore , Bengaluru +44 other locations",27.4k,641,263,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+187,Jubilant Foods Works,3.7k,3.4k,Hospitality - New Delhi +233 other locations,8.2k,201,116,N/A,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+188,American Express,4.1k,3.4k,"Financial Services - Gurgaon , Gurugram +49 other locations",21.6k,381,159,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+189,PVR Inox,3.9k,3.4k,Media & Entertainment - New Delhi +148 other locations,9.2k,177,8,Skill Development / Learning,Promotions / Appraisal
+190,Hindalco Industries,4.2k,3.4k,Metals & Mining - Sambalpur +112 other locations,10.9k,237,11,"Job Security, Work Life Balance, Skill Development / Learning",N/A
+191,Jindal Steel and Power,3.9k,3.4k,Iron & Steel - Angul +154 other locations,14.1k,342,33,Skill Development / Learning,Promotions / Appraisal
+192,Subros,3.8k,3.4k,Auto Components - Noida +79 other locations,11.9k,184,2,"Job Security, Skill Development / Learning, Company Culture","Salary & Benefits, Promotions / Appraisal"
+193,Lenskart,3.2k,3.4k,Internet - New Delhi +211 other locations,11.1k,347,142,N/A,"Promotions / Appraisal, Company Culture, Work Life Balance"
+194,Automatic Data Processing (ADP),4.0k,3.3k,"Software Product - Hyderabad , Secunderabad +37 other locations",20.3k,252,27,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+195,RBL Bank,3.6k,3.3k,Banking - Mumbai +253 other locations,17.1k,194,32,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+196,Alembic Pharmaceuticals,4.0k,3.3k,Pharma - Vadodara +171 other locations,14.3k,218,71,"Salary & Benefits, Work Life Balance",N/A
+197,Pidilite Industries,4.3k,3.3k,Chemicals - Mumbai +280 other locations,10.2k,222,1,"Job Security, Company Culture, Work Life Balance",N/A
+198,Samvardhana Motherson Group,3.7k,3.3k,Auto Components - Noida +86 other locations,12.1k,232,16,Job Security,"Company Culture, Work Life Balance, Work Satisfaction"
+199,Godrej & Boyce Manufacturing,3.9k,3.3k,Consumer Electronics & Appliances - Mumbai +143 other locations,14.7k,191,40,Job Security,Promotions / Appraisal
+200,State Street Corporation,3.7k,3.3k,"Financial Services - Bangalore , Bengaluru +30 other locations",28.3k,241,1,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+201,Abbott,4.1k,3.2k,Pharma - Mumbai +193 other locations,10.9k,156,241,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+202,Sodexo,4.1k,3.3k,Facility Management Services - Mumbai +146 other locations,9.6k,172,2k,"Work Life Balance, Company Culture, Job Security",N/A
+203,Bharat Electronics,4.2k,3.2k,"Electronics Manufacturing - Bangalore , Bengaluru +73 other locations",11.9k,221,1,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal
+204,Dabur,3.9k,3.2k,FMCG - New Delhi +294 other locations,8k,292,21,"Salary & Benefits, Job Security",Promotions / Appraisal
+205,Maersk,4.1k,3.2k,Logistics - Pune +45 other locations,17.8k,217,237,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+206,Birlasoft,3.6k,3.2k,IT Services & Consulting - Pune +45 other locations,28.3k,299,7,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+207,Escorts Kubota Limited,4.1k,3.2k,Automobile - Faridabad +141 other locations,12.1k,244,5,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+208,Aarti Industries,4.1k,3.2k,Agro Chemicals - Bharuch +53 other locations,13.5k,295,36,"Job Security, Work Life Balance, Company Culture",N/A
+209,Indian Oil Corporation,4.4k,3.2k,Oil & Gas - New Delhi +290 other locations,7.3k,217,--,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+210,Synechron,3.5k,3.2k,IT Services & Consulting - Pune +31 other locations,27.7k,373,136,N/A,"Job Security, Promotions / Appraisal, Work Satisfaction"
+211,Reliance Digital,4.1k,3.2k,Retail - Mumbai +354 other locations,8k,141,--,"Skill Development / Learning, Job Security, Company Culture",N/A
+212,Motilal Oswal Financial Services,3.6k,3.1k,Financial Services - Mumbai +150 other locations,10.7k,324,42,N/A,"Work Satisfaction, Promotions / Appraisal, Work Life Balance"
+213,PNB MetLife,3.4k,3.1k,Insurance - New Delhi +380 other locations,7.7k,165,347,N/A,"Job Security, Company Culture, Work Satisfaction"
+214,Ipca Laboratories,3.9k,3.1k,Pharma - Mumbai +148 other locations,10.9k,169,29,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+215,Reliance Projects & Property Management Services,4.0k,3.1k,IT Services & Consulting - Kolkata +573 other locations,6.9k,182,--,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+216,Cogent E Services,3.2k,3.2k,Noida +47 other locations,9.5k,258,1,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+217,Glenmark Pharmaceuticals,3.9k,3.1k,Pharma - Mumbai +159 other locations,11.4k,155,22,N/A,Promotions / Appraisal
+218,Kyndryl,4.0k,3.1k,"IT Services & Consulting - Bangalore , Bengaluru +33 other locations",22.4k,196,84,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal
+219,Ford Motor,4.3k,3.1k,Automobile - Chennai +123 other locations,14.2k,161,2,"Company Culture, Work Life Balance, Salary & Benefits",N/A
+220,"NTT DATA, Inc.",4.0k,3.1k,"IT Services & Consulting - Bangalore , Bengaluru +32 other locations",22.4k,133,844,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+221,Kogta Financial India Limited,4.7k,3.1k,NBFC - Jaipur +231 other locations,1.7k,89,33,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+222,Johnson Controls,3.6k,3.1k,Industrial Automation - Pune +52 other locations,16.4k,271,167,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+223,UBS,3.9k,3k,Financial Services - Pune +19 other locations,29.2k,350,--,"Work Life Balance, Company Culture",Promotions / Appraisal
+224,Kotak Mahindara Life Insurance,3.7k,3.1k,Insurance - Mumbai +234 other locations,11.5k,233,1.8k,Job Security,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+225,JK Cement,4.1k,3k,Building Material - New Delhi +295 other locations,9.2k,287,--,"Salary & Benefits, Company Culture, Work Life Balance",N/A
+226,MRF Tyres,3.6k,3k,Auto Components - Chennai +181 other locations,11.6k,322,--,Job Security,"Company Culture, Work Satisfaction, Work Life Balance"
+227,Alkem Laboratories,3.9k,3k,Pharma - Mumbai +179 other locations,9.1k,166,63,N/A,"Job Security, Promotions / Appraisal"
+228,Aditya Birla Sun Life Insurance,4.0k,3.1k,Insurance - Mumbai +437 other locations,9.1k,148,--,"Company Culture, Work Life Balance, Job Security",N/A
+229,24/7 Customer,3.5k,3k,"Software Product - Bangalore , Bengaluru +35 other locations",13k,179,44,N/A,"Promotions / Appraisal, Salary & Benefits, Work Life Balance"
+230,Future Group,4.2k,3k,Retail - Mumbai +204 other locations,8.1k,80,--,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+231,Grasim Industries,4.0k,3k,Building Material - Bharuch +204 other locations,10.8k,229,4,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+232,KPIT Technologies,3.4k,3k,Software Product - Pune +40 other locations,21.1k,303,8,N/A,"Promotions / Appraisal, Job Security, Company Culture"
+233,Marpu Foundation,4.8k,3k,"Non-Profit - Hyderabad , Secunderabad +57 other locations",52,88,--,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+234,Vishal Mega Mart,3.7k,3k,Retail - New Delhi +345 other locations,6.1k,172,5,Salary & Benefits,"Company Culture, Work Satisfaction, Work Life Balance"
+235,Tata Capital,4.0k,3k,NBFC - Mumbai +291 other locations,9.6k,154,1.5k,"Job Security, Company Culture, Skill Development / Learning",N/A
+236,Honda Motorcycle & Scooter,4.1k,3k,"Automobile - Gurgaon , Gurugram +260 other locations",10.6k,169,--,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+237,IGT Solutions,3.3k,3k,IT Services & Consulting - New Delhi +46 other locations,12.3k,232,118,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+238,Hindustan Coca Cola Beverages,4.1k,3k,"Beverage - Bangalore , Bengaluru +243 other locations",7.1k,145,63,"Skill Development / Learning, Salary & Benefits, Company Culture",Promotions / Appraisal
+239,HARMAN,3.8k,3k,"Consumer Electronics & Appliances - Bangalore , Bengaluru +36 other locations",23.5k,274,338,Work Life Balance,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+240,Ceat Tyres,4.0k,2.9k,Auto Components - Nagpur +128 other locations,12.1k,181,--,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+241,NatWest Group,4.0k,2.9k,"Banking - Gurgaon , Gurugram +24 other locations",19.2k,213,--,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+242,Reliance Nippon Life Insurance,3.6k,2.9k,Insurance - Mumbai +462 other locations,8k,148,32,N/A,"Work Satisfaction, Job Security, Promotions / Appraisal"
+243,Indian Air Force,4.6k,2.9k,Defence & Aerospace - New Delhi +128 other locations,5.1k,59,--,"Job Security, Skill Development / Learning, Salary & Benefits",N/A
+244,ABB,4.1k,2.9k,"Industrial Machinery - Bangalore , Bengaluru +101 other locations",15.8k,247,--,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+245,DTDC Express,3.7k,2.9k,Logistics - New Delhi +250 other locations,8.1k,166,16,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+246,InterGlobe Aviation,3.6k,2.8k,Aviation - New Delhi +96 other locations,12.8k,333,38,N/A,"Promotions / Appraisal, Salary & Benefits, Work Life Balance"
+247,Conduent,3.4k,2.9k,"BPO - Bangalore , Bengaluru +32 other locations",16.7k,205,39,N/A,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+248,ArcelorMittal Nippon Steel,4.1k,2.9k,Iron & Steel - Surat +79 other locations,10.3k,244,9,"Job Security, Work Life Balance, Skill Development / Learning",N/A
+249,GeBBS Healthcare Solutions,3.7k,2.8k,Healthcare - Mumbai +23 other locations,11.3k,154,53,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+250,RSPL Group,4.1k,2.8k,FMCG - Kanpur +228 other locations,8.9k,206,27,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+251,Tata AIG,4.1k,2.8k,Insurance - Mumbai +245 other locations,10.9k,164,149,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+252,Square Yards,3.7k,2.8k,"Internet - Gurgaon , Gurugram +48 other locations",8.6k,208,60,N/A,N/A
+253,Max Healthcare,4.0k,2.8k,Healthcare - New Delhi +70 other locations,9.7k,158,77,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+254,UPL,4.1k,2.8k,Agro Chemicals - Ankleshwar +175 other locations,10.7k,189,44,"Job Security, Work Life Balance, Skill Development / Learning",N/A
+255,Alstom Transportation,3.7k,2.8k,"Engineering & Construction - Bangalore , Bengaluru +73 other locations",12.9k,253,124,Job Security,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+256,UNO Minda,4.0k,2.8k,Auto Components - Pune +97 other locations,9.6k,195,14,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+257,CMS IT Services,3.1k,2.7k,IT Services & Consulting - Mumbai +150 other locations,9.8k,144,33,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+258,S&P Global,4.0k,2.7k,"Analytics & KPO - Hyderabad , Secunderabad +42 other locations",18.1k,293,400,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+259,Tata Technologies,3.6k,2.8k,Engineering & Construction - Pune +48 other locations,20.6k,278,104,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+260,Barclays,3.8k,2.7k,Banking - Pune +36 other locations,26.3k,286,--,"Job Security, Salary & Benefits","Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+261,Walmart,3.6k,2.7k,"Retail - Bangalore , Bengaluru +87 other locations",18.5k,404,45,N/A,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+262,PepsiCo,4.0k,2.7k,"Food Processing - Hyderabad , Secunderabad +256 other locations",11.4k,212,335,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+263,UnitedHealth,4.0k,2.7k,"Healthcare - Hyderabad , Secunderabad +16 other locations",15.7k,84,--,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+264,Varroc Group,3.6k,2.7k,Auto Components - Pune +60 other locations,8.9k,186,7,N/A,"Promotions / Appraisal, Job Security, Company Culture"
+265,Amazon Transportation Services,4.2k,2.7k,"Hyderabad , Secunderabad +215 other locations",7.6k,235,--,"Salary & Benefits, Company Culture, Skill Development / Learning",N/A
+266,Titan Company,4.3k,2.7k,"Retail - Bangalore , Bengaluru +165 other locations",8.8k,165,323,"Company Culture, Job Security, Work Life Balance",N/A
+267,Whitehat jr,3.4k,2.7k,EdTech - Mumbai +48 other locations,9.4k,262,--,N/A,"Job Security, Promotions / Appraisal, Work Satisfaction"
+268,ACC,3.9k,2.7k,Building Material - Mumbai +246 other locations,8.8k,209,3,N/A,Promotions / Appraisal
+269,Croma,4.0k,2.7k,Retail - Mumbai +173 other locations,8k,148,53,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+270,Dilip Buildcon,4.0k,2.7k,Engineering & Construction - Bhopal +210 other locations,7.9k,155,10,"Work Satisfaction, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal
+271,Zensar Technologies,3.7k,2.7k,IT Services & Consulting - Pune +28 other locations,25.1k,258,394,Work Life Balance,"Promotions / Appraisal, Job Security, Salary & Benefits"
+272,Torrent Pharmaceuticals,3.9k,2.6k,Pharma - Ahmedabad +113 other locations,9.9k,134,27,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+273,Bajaj Allianz General Insurance,3.8k,2.7k,Insurance - Pune +259 other locations,8.5k,105,290,Salary & Benefits,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+274,Mankind Pharma,3.9k,2.6k,Pharma - New Delhi +217 other locations,8.5k,210,15,Salary & Benefits,N/A
+275,Societe Generale Global Solution Centre,3.7k,2.6k,"IT Services & Consulting - Bangalore , Bengaluru +24 other locations",20.9k,270,25,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+276,Shoppers Stop,4.1k,2.6k,Retail - Mumbai +78 other locations,6.8k,120,38,"Company Culture, Job Security, Work Life Balance",N/A
+277,Nokia,4.1k,2.6k,"Telecom - Bangalore , Bengaluru +166 other locations",14.8k,285,220,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal
+278,Afcons Infrastructure,4.2k,2.6k,Engineering & Construction - Mumbai +111 other locations,7.9k,223,7,"Job Security, Skill Development / Learning, Company Culture",N/A
+279,PhonePe,4.0k,2.6k,"FinTech - Bangalore , Bengaluru +312 other locations",10.8k,337,378,"Salary & Benefits, Company Culture, Work Life Balance",N/A
+280,TVS Credit,4.2k,2.6k,NBFC - Chennai +373 other locations,6.7k,121,44,"Company Culture, Work Life Balance, Job Security",N/A
+281,Fiserv,3.0k,2.6k,FinTech - Pune +32 other locations,17.8k,180,57,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+282,I Process Services,3.9k,2.6k,Mumbai +364 other locations,5.2k,112,--,"Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+283,HDFC Sales,4.0k,2.6k,Financial Services - Mumbai +314 other locations,7.9k,173,45,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal
+284,Quest Global,3.6k,2.6k,"IT Services & Consulting - Bangalore , Bengaluru +42 other locations",19.2k,323,147,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+285,Fujitsu,3.8k,2.5k,IT Services & Consulting - Pune +39 other locations,16.3k,196,43,"Work Life Balance, Company Culture",Promotions / Appraisal
+286,Apollo Tyres,4.0k,2.5k,Auto Components - Chennai +165 other locations,9.3k,138,--,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal
+287,Capita,3.6k,2.5k,IT Services & Consulting - Pune +29 other locations,13.4k,153,62,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+288,MSN Laboratories,3.7k,2.5k,"Pharma - Hyderabad , Secunderabad +86 other locations",8.6k,145,21,Job Security,"Company Culture, Work Life Balance, Work Satisfaction"
+289,Suzlon Group,4.0k,2.5k,Power - Pune +124 other locations,7.2k,135,19,"Job Security, Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits"
+290,Flex,4.0k,2.5k,Electronics Manufacturing - Chennai +43 other locations,16.3k,197,48,"Company Culture, Work Life Balance, Work Satisfaction","Promotions / Appraisal, Salary & Benefits"
+291,IDFC FIRST Bharat,4.4k,2.5k,Financial Services - Chennai +349 other locations,4.5k,115,--,"Salary & Benefits, Company Culture, Job Security",N/A
+292,Nestle,3.9k,2.4k,"FMCG - Gurgaon , Gurugram +268 other locations",9.2k,249,60,"Salary & Benefits, Job Security, Skill Development / Learning",Promotions / Appraisal
+293,Eternal Limited,3.7k,2.5k,"Internet - Gurgaon , Gurugram +212 other locations",12.9k,324,12,N/A,"Promotions / Appraisal, Job Security, Work Life Balance"
+294,Sahrudaya Healthcare (Medicover Hospitals),4.6k,2.5k,"Healthcare - Hyderabad , Secunderabad +43 other locations",3.1k,133,29,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+295,ElasticRun,3.5k,2.4k,Logistics - Pune +374 other locations,6.1k,259,16,N/A,"Job Security, Promotions / Appraisal, Work Life Balance"
+296,Shree Cement,3.8k,2.4k,Building Material - Beawar +240 other locations,9.2k,169,--,N/A,"Promotions / Appraisal, Job Security"
+297,Jindal Stainless,4.1k,2.4k,Iron & Steel - Jajpur +69 other locations,10.1k,235,2,"Job Security, Work Life Balance, Skill Development / Learning",N/A
+298,IKS Health,3.6k,2.4k,Analytics & KPO - Mumbai +26 other locations,10.1k,239,19,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+299,Landmark Group,3.9k,2.4k,"Retail - Bangalore , Bengaluru +157 other locations",8.8k,156,9,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+300,Yazaki,3.8k,2.4k,Auto Components - Pune +85 other locations,8k,147,1,N/A,Promotions / Appraisal
+301,GATI-KWE,3.9k,2.4k,"Logistics - Hyderabad , Secunderabad +156 other locations",5.2k,91,3,"Skill Development / Learning, Work Life Balance, Job Security",Promotions / Appraisal
+302,Statestreet HCL Services,3.4k,2.4k,BPO - Chennai +17 other locations,15.2k,213,--,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+303,DS Group,4.0k,2.4k,FMCG - Noida +260 other locations,6.8k,171,28,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+304,Exide Industries,3.5k,2.4k,Auto Components - Kolkata +195 other locations,7.9k,186,64,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+305,AGS Health,4.0k,2.4k,Analytics & KPO - Chennai +50 other locations,10.6k,172,43,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal
+306,KPMG Global Services,3.5k,2.4k,"Management Consulting - Bangalore , Bengaluru +36 other locations",20.9k,234,1,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+307,Blue Dart Express Ltd,4.0k,2.4k,Logistics - Mumbai +258 other locations,6.2k,106,8,"Job Security, Company Culture",Promotions / Appraisal
+308,Tata Elxsi,3.7k,2.4k,"IT Services & Consulting - Bangalore , Bengaluru +27 other locations",19.9k,316,59,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+309,Indus Towers,3.7k,2.4k,"Hardware & Networking - Gurgaon , Gurugram +199 other locations",8k,194,25,N/A,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+310,VVDN Technologies,3.6k,2.4k,"IT Services & Consulting - Gurgaon , Gurugram +41 other locations",11.8k,218,5,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+311,Sterlite Technologies,3.8k,2.3k,Hardware & Networking - Aurangabad +96 other locations,10k,169,79,N/A,"Promotions / Appraisal, Job Security"
+312,Britannia,4.0k,2.4k,"FMCG - Bangalore , Bengaluru +264 other locations",7.5k,184,3,"Job Security, Skill Development / Learning",Promotions / Appraisal
+313,TVS Supply Chain Solutions,3.8k,2.3k,Chennai +144 other locations,8k,138,3,N/A,"Promotions / Appraisal, Salary & Benefits"
+314,Micro Labs,3.6k,2.4k,"Pharma - Bangalore , Bengaluru +138 other locations",9.4k,135,12,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+315,Shell,4.0k,2.4k,"Oil & Gas - Bangalore , Bengaluru +85 other locations",12.9k,207,27,"Work Life Balance, Company Culture, Salary & Benefits","Promotions / Appraisal, Job Security"
+316,Sammaan Capital Limited,3.7k,2.3k,NBFC - New Delhi +197 other locations,6.5k,105,7,N/A,"Promotions / Appraisal, Job Security"
+317,XpressBees,3.7k,2.4k,Pune +267 other locations,7.7k,177,8,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+318,BlackBuck,3.7k,2.3k,"Internet - Bangalore , Bengaluru +350 other locations",6.1k,193,9,N/A,"Job Security, Promotions / Appraisal"
+319,Blinkit,3.7k,2.4k,"Internet - Gurgaon , Gurugram +93 other locations",9.7k,221,--,N/A,"Promotions / Appraisal, Job Security, Company Culture"
+320,Dalmia Bharat Cement,4.0k,2.3k,Building Material - Guwahati +234 other locations,8.1k,150,1,"Job Security, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal
+321,Bajaj Electricals,4.0k,2.3k,Consumer Electronics & Appliances - Mumbai +220 other locations,7.6k,129,38,"Salary & Benefits, Company Culture, Work Life Balance",Promotions / Appraisal
+322,Domino's Pizza,3.9k,2.3k,New Delhi +230 other locations,4.2k,97,--,"Skill Development / Learning, Salary & Benefits",N/A
+323,SRF,4.1k,2.3k,Chemicals - Bharuch +65 other locations,8.2k,188,29,"Job Security, Salary & Benefits, Company Culture",N/A
+324,Paras Hospital,4.4k,2.3k,Healthcare - Patna +57 other locations,3k,88,24,"Work Life Balance, Skill Development / Learning, Company Culture",N/A
+325,G4S,3.9k,2.3k,"Law Enforcement & Security - Gurgaon , Gurugram +146 other locations",4.8k,108,113,"Work Life Balance, Salary & Benefits",Promotions / Appraisal
+326,KFintech,3.5k,2.3k,"FinTech - Hyderabad , Secunderabad +105 other locations",10.1k,148,8,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+327,Voltas,4.0k,2.3k,Consumer Electronics & Appliances - Mumbai +183 other locations,8.1k,146,7,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+328,Kansai Nerolac Paints,3.8k,2.3k,Chemicals - Mumbai +220 other locations,7k,161,62,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+329,Patanjali Ayurved,3.9k,2.3k,FMCG - Haridwar +286 other locations,6.3k,119,--,Work Life Balance,Promotions / Appraisal
+330,ZS,3.3k,2.3k,Management Consulting - Pune +16 other locations,17.2k,472,154,N/A,"Work Life Balance, Work Satisfaction, Promotions / Appraisal"
+331,Capgemini Engineering,3.4k,2.3k,"IT Services & Consulting - Bangalore , Bengaluru +27 other locations",16k,377,100,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+332,Fortis Healthcare,4.0k,2.2k,Healthcare - New Delhi +64 other locations,7.2k,138,93,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+333,Sonalika Tractors,3.6k,2.2k,Automobile - Hoshiarpur +174 other locations,8.3k,140,--,Job Security,"Company Culture, Promotions / Appraisal, Work Life Balance"
+334,McDonald's,4.0k,2.2k,New Delhi +144 other locations,4.6k,129,4,"Skill Development / Learning, Company Culture, Job Security",N/A
+335,ACT Fibernet,4.0k,2.3k,"Telecom - Hyderabad , Secunderabad +51 other locations",7.4k,141,42,"Company Culture, Job Security, Salary & Benefits",Promotions / Appraisal
+336,Alldigi Tech,4.0k,2.3k,BPO - Chennai +33 other locations,7k,215,24,"Job Security, Company Culture, Work Life Balance",N/A
+337,Ajanta Pharma,4.0k,2.2k,Pharma - Mumbai +114 other locations,8.5k,130,25,"Job Security, Work Life Balance",Promotions / Appraisal
+338,ESAF Small Finance Bank,3.7k,2.2k,Banking - Thrissur +377 other locations,7k,129,33,N/A,"Promotions / Appraisal, Work Satisfaction"
+339,Tractors and Farm Equipment,4.0k,2.2k,Industrial Machinery - Chennai +176 other locations,8k,116,22,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+340,Axis Direct,3.8k,2.2k,Financial Services - Mumbai +264 other locations,4.8k,81,25,N/A,"Promotions / Appraisal, Work Satisfaction"
+341,KocharTech,3.9k,2.2k,IT Services & Consulting - Kolkata +26 other locations,3.7k,77,57,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+342,Blue Star,4.1k,2.2k,Consumer Electronics & Appliances - Mumbai +142 other locations,9.1k,175,210,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+343,Movate,3.3k,2.2k,IT Services & Consulting - Chennai +35 other locations,13.9k,267,83,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+344,NoBroker,3.1k,2.2k,"Real Estate - Bangalore , Bengaluru +46 other locations",9.5k,253,158,N/A,"Work Life Balance, Work Satisfaction, Job Security"
+345,Himalaya Wellness,4.1k,2.2k,"Bangalore , Bengaluru +217 other locations",5.9k,123,13,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+346,suzuki motor gujarat,4.2k,2.2k,Automobile - Ahmedabad +110 other locations,7.3k,191,26,"Job Security, Salary & Benefits, Company Culture",N/A
+347,Ola Electric Mobility,3.3k,2.2k,"Automobile - Bangalore , Bengaluru +338 other locations",8k,249,--,N/A,"Job Security, Company Culture, Work Life Balance"
+348,Foundever,3.5k,2.2k,"BPO - Hyderabad , Secunderabad +22 other locations",7.6k,159,89,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+349,Care Health Insurance,3.6k,2.2k,"Internet - Gurgaon , Gurugram +223 other locations",7.9k,132,69,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+350,V-Mart,4.1k,2.2k,"Retail - Gurgaon , Gurugram +263 other locations",4.1k,159,19,"Skill Development / Learning, Job Security, Company Culture",N/A
+351,DBS Bank,3.8k,2.1k,"Banking - Hyderabad , Secunderabad +160 other locations",12.1k,177,108,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction"
+352,Taj Hotels Resorts and Palaces,4.2k,2.2k,Mumbai +102 other locations,4.5k,132,--,"Job Security, Company Culture, Skill Development / Learning",N/A
+353,Mahindra Rural Housing Finance,4.0k,2.1k,NBFC - Mumbai +443 other locations,4.7k,93,18,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal
+354,Star Health & Allied Insurance,3.6k,2.1k,Insurance - Chennai +300 other locations,8.6k,125,27,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+355,BT Group,3.9k,2.1k,"Telecom - Gurgaon , Gurugram +22 other locations",10.4k,195,3,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+356,Parle Agro,4.0k,2.1k,Beverage - Mumbai +225 other locations,6.4k,116,2,"Job Security, Work Life Balance, Salary & Benefits",Promotions / Appraisal
+357,JCB,3.9k,2.1k,Pune +103 other locations,9k,147,--,Work Life Balance,Promotions / Appraisal
+358,Datamatics Global Services,3.4k,2.1k,IT Services & Consulting - Mumbai +31 other locations,11.3k,171,80,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+359,Lifestyle,4.3k,2.1k,"Retail - Bangalore , Bengaluru +127 other locations",6.8k,70,8,"Company Culture, Job Security, Skill Development / Learning",N/A
+360,Intellect Design Arena,3.9k,2.1k,Software Product - Chennai +37 other locations,12.1k,168,22,Job Security,N/A
+361,Adani Power,3.9k,2.1k,Power - Mundra +111 other locations,8.1k,260,--,"Job Security, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal
+362,Biocon Limited,3.9k,2.1k,"Biotechnology - Bangalore , Bengaluru +63 other locations",11.3k,162,28,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+363,Huawei Technologies,4.0k,2.1k,"Telecom - Bangalore , Bengaluru +104 other locations",8.8k,116,2,"Salary & Benefits, Skill Development / Learning",Job Security
+364,Info Edge,3.9k,2.1k,Internet - Noida +65 other locations,10.9k,343,459,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+365,Akums Drugs & Pharmaceuticals Limited,4.4k,2.1k,Pharma - Haridwar +34 other locations,5.9k,304,18,"Job Security, Skill Development / Learning, Company Culture",N/A
+366,Gallagher,3.7k,2.1k,"Insurance - Bangalore , Bengaluru +26 other locations",12.4k,236,42,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+367,Planet Spark,3.8k,2.1k,"EdTech - Gurgaon , Gurugram +61 other locations",2.8k,486,76,"Skill Development / Learning, Work Life Balance",N/A
+368,Cybage,3.8k,2.1k,IT Services & Consulting - Pune +13 other locations,16.7k,200,18,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+369,Aditya Birla Group,4.1k,2.1k,Building Material - Mumbai +243 other locations,9.5k,208,4,"Job Security, Company Culture, Work Life Balance",N/A
+370,Cholamandalam MS General Insurance,3.8k,2.1k,Insurance - Chennai +360 other locations,5.4k,100,1,N/A,Promotions / Appraisal
+371,Emcure Pharmaceuticals,3.7k,2.1k,Pune +105 other locations,7.9k,113,42,N/A,"Job Security, Promotions / Appraisal, Company Culture"
+372,ICICI Securities,3.9k,2.1k,Financial Services - Mumbai +139 other locations,9.1k,174,3,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+373,Lava International,4.0k,2.1k,Consumer Electronics & Appliances - Noida +218 other locations,4.3k,74,2,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal
+374,IntouchCX,2.8k,2.1k,"BPO - Hyderabad , Secunderabad +20 other locations",8.6k,209,104,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+375,3i Infotech,3.4k,2.1k,IT Services & Consulting - Mumbai +115 other locations,10.6k,149,31,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+376,Delhi Public School,3.8k,2.1k,New Delhi +257 other locations,5.3k,126,199,Skill Development / Learning,Promotions / Appraisal
+377,Syngene International,3.9k,2k,"Clinical Research - Bangalore , Bengaluru +20 other locations",11.7k,170,32,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+378,Xoriant,4.1k,2.1k,IT Services & Consulting - Pune +23 other locations,11.1k,200,36,"Work Life Balance, Company Culture, Work Satisfaction",N/A
+379,Mahindra Holidays & Resorts,3.5k,2.1k,Hospitality - Mumbai +106 other locations,5.8k,112,55,N/A,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+380,Cloudnine Hospital,4.4k,2.1k,"Healthcare - Bangalore , Bengaluru +34 other locations",2.6k,392,--,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+381,Bharat Financial Inclusion,3.9k,2.1k,"NBFC - Hyderabad , Secunderabad +411 other locations",4.1k,84,20,"Salary & Benefits, Job Security",Work Satisfaction
+382,Canara HSBC Life Insurance,3.6k,2.1k,"Insurance - Gurgaon , Gurugram +284 other locations",6.3k,109,231,N/A,"Work Satisfaction, Job Security"
+383,Sagility,3.9k,2.1k,"BPO - Bangalore , Bengaluru +23 other locations",8.6k,205,43,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+384,Unacademy,3.0k,2k,"EdTech - Bangalore , Bengaluru +67 other locations",9.8k,215,28,N/A,"Job Security, Promotions / Appraisal, Work Satisfaction"
+385,Simplex Infrastructures,3.4k,2k,Engineering & Construction - Kolkata +134 other locations,5k,72,--,N/A,"Salary & Benefits, Promotions / Appraisal, Company Culture"
+386,Eureka Forbes,3.7k,2k,Consumer Electronics & Appliances - Mumbai +174 other locations,5.3k,75,5,N/A,"Promotions / Appraisal, Job Security, Company Culture"
+387,Niva Bupa Health Insurance Company,3.6k,2k,Insurance - New Delhi +234 other locations,7.3k,134,34,N/A,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+388,Ola Cabs,3.3k,2k,"Internet - Bangalore , Bengaluru +100 other locations",9.8k,144,13,N/A,"Job Security, Promotions / Appraisal, Company Culture"
+389,Nokia Networks,4.2k,2k,"Hardware & Networking - Bangalore , Bengaluru +84 other locations",10.9k,118,--,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+390,Hero FinCorp,4.0k,2k,NBFC - New Delhi +365 other locations,5.1k,97,17,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal
+391,Myntra,3.9k,2k,"Internet - Bangalore , Bengaluru +102 other locations",9.7k,227,86,"Company Culture, Skill Development / Learning",Promotions / Appraisal
+392,Cadila Pharmaceuticals,3.4k,2k,Pharma - Ahmedabad +123 other locations,7.1k,130,30,N/A,"Job Security, Promotions / Appraisal, Company Culture"
+393,Radisson Hotels,4.0k,2k,New Delhi +117 other locations,5.2k,85,202,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+394,Sobha,3.8k,2k,"Real Estate - Bangalore , Bengaluru +37 other locations",7.9k,146,60,Job Security,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+395,State Street Syntel,3.7k,2k,Financial Services - Pune +22 other locations,8.4k,77,--,"Job Security, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal, Work Satisfaction"
+396,Laurus Labs,4.2k,2k,Pharma - Visakhapatnam +27 other locations,6.8k,123,2,"Job Security, Company Culture, Work Life Balance",N/A
+397,Tata Advanced Systems,3.7k,2k,"Defence & Aerospace - Bangalore , Bengaluru +44 other locations",11.1k,151,10,Job Security,"Promotions / Appraisal, Salary & Benefits"
+398,Photon Interactive,4.1k,2k,IT Services & Consulting - Chennai +13 other locations,6.8k,116,756,"Skill Development / Learning, Salary & Benefits, Company Culture",N/A
+399,Bureau Veritas,3.9k,2k,Other - Mumbai +127 other locations,7.5k,122,29,Work Life Balance,Promotions / Appraisal
+400,Straive,3.4k,2k,Analytics & KPO - Chennai +28 other locations,9.1k,198,51,N/A,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+401,Whirlpool,3.9k,2k,Consumer Electronics & Appliances - Pune +153 other locations,7.8k,103,9,"Work Life Balance, Company Culture",Promotions / Appraisal
+402,GlaxoSmithKline Pharmaceuticals,4.1k,2k,"Pharma - Bangalore , Bengaluru +200 other locations",5.1k,111,19,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+403,Exl India,3.5k,2k,Logistics - New Delhi +37 other locations,12.1k,111,--,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+404,Cisco,4.2k,1.9k,"Hardware & Networking - Bangalore , Bengaluru +43 other locations",17.3k,384,179,"Work Life Balance, Company Culture, Skill Development / Learning",N/A
+405,Extramarks Education,3.5k,1.9k,EdTech - Noida +105 other locations,7.6k,168,22,N/A,"Job Security, Promotions / Appraisal, Work Satisfaction"
+406,Indian Railways,4.2k,1.9k,Railways - New Delhi +228 other locations,3.2k,95,--,"Job Security, Company Culture, Work Life Balance",N/A
+407,Kia Motors,3.9k,1.9k,Automobile - Anantapur +168 other locations,7.4k,143,27,Job Security,Promotions / Appraisal
+408,BHEL,4.1k,1.9k,"Electrical Equipment - Bangalore , Bengaluru +117 other locations",4.9k,119,--,"Job Security, Work Life Balance, Company Culture",N/A
+409,RMSI,3.7k,1.9k,"IT Services & Consulting - Hyderabad , Secunderabad +20 other locations",8.1k,166,14,N/A,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+410,Ninjacart,3.9k,1.9k,"Internet - Bangalore , Bengaluru +105 other locations",5.5k,98,13,"Skill Development / Learning, Salary & Benefits",Job Security
+411,Sopra Steria,3.8k,1.9k,IT Services & Consulting - Noida +18 other locations,13.5k,137,265,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+412,Renault Nissan Technology & Business Centre India,3.8k,1.9k,Automobile - Chennai +16 other locations,13.7k,138,63,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+413,Ambuja Cements,3.9k,1.9k,Building Material - Mumbai +229 other locations,5.7k,128,--,N/A,"Promotions / Appraisal, Job Security"
+414,GVK Emergency Management and Research Institute,3.6k,1.9k,Lucknow +185 other locations,4.4k,98,24,N/A,"Promotions / Appraisal, Job Security, Company Culture"
+415,Life Insurance Corporation of India,4.4k,1.9k,Insurance - New Delhi +444 other locations,4.3k,79,--,"Company Culture, Work Life Balance, Salary & Benefits",N/A
+416,Bharti AXA Life Insurance,3.8k,1.9k,Insurance - Mumbai +233 other locations,5.2k,128,26,N/A,N/A
+417,Endurance Technologies,3.9k,1.9k,Auto Components - Aurangabad +44 other locations,7.3k,115,10,Skill Development / Learning,Promotions / Appraisal
+418,Pfizer,3.9k,1.9k,Pharma - Visakhapatnam +117 other locations,5.6k,77,60,"Work Life Balance, Company Culture, Skill Development / Learning","Promotions / Appraisal, Job Security"
+419,Shahi Exports,4.0k,1.9k,"Fashion & Textile - Bangalore , Bengaluru +64 other locations",6.5k,109,37,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+420,Aavas Financiers,3.9k,1.9k,NBFC - Jaipur +265 other locations,5.6k,98,81,Skill Development / Learning,N/A
+421,Force Motors,3.6k,1.9k,Automobile - Pune +95 other locations,7.6k,127,3,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+422,Lodha Group,4.0k,1.9k,Real Estate - Mumbai +23 other locations,7.8k,139,74,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+423,Adani Wilmar,4.1k,1.9k,FMCG - Ahmedabad +182 other locations,6.2k,114,95,"Job Security, Company Culture, Work Life Balance",N/A
+424,Aditya Birla Capital,3.9k,1.9k,Financial Services - Mumbai +246 other locations,8.2k,167,1,"Work Life Balance, Job Security",Promotions / Appraisal
+425,Physicswallah,3.7k,1.9k,EdTech - Noida +101 other locations,6k,223,27,N/A,"Promotions / Appraisal, Job Security"
+426,Adani Group,3.9k,1.9k,Power - Ahmedabad +165 other locations,9.2k,227,163,"Job Security, Salary & Benefits",Promotions / Appraisal
+427,upGrad,3.6k,1.9k,"EdTech - Bangalore , Bengaluru +47 other locations",8.3k,202,50,N/A,"Work Satisfaction, Job Security, Promotions / Appraisal"
+428,Bank of Baroda,3.5k,1.9k,Banking - Mumbai +277 other locations,6.2k,99,--,Job Security,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+429,Renault-Nissan,4.1k,1.9k,Chennai +80 other locations,7.2k,112,--,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+430,Panasonic Life Solutions India,4.0k,1.9k,Consumer Electronics & Appliances - Haridwar +146 other locations,6.1k,78,15,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+431,ValueLabs,3.7k,1.9k,"IT Services & Consulting - Hyderabad , Secunderabad +17 other locations",14.8k,196,80,N/A,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction"
+432,Apollo Pharmacy,3.8k,1.9k,"Hyderabad , Secunderabad +244 other locations",5.9k,141,129,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+433,Raymond Lifestyle Limited,4.1k,1.9k,Fashion & Textile - Mumbai +133 other locations,6.5k,97,--,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+434,Coromandel International,4.1k,1.9k,Agro Chemicals - Visakhapatnam +164 other locations,6.8k,107,17,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+435,TCE,3.8k,1.9k,Engineering & Construction - Mumbai +123 other locations,8.1k,264,280,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits"
+436,Reliance Trends,4.1k,1.9k,"Retail - Bangalore , Bengaluru +359 other locations",4.1k,109,--,"Job Security, Skill Development / Learning, Company Culture",N/A
+437,Allstate,3.8k,1.8k,Insurance - Pune +13 other locations,11.2k,140,21,"Work Life Balance, Company Culture",Promotions / Appraisal
+438,Microsoft Corporation,3.9k,1.8k,"Software Product - Bangalore , Bengaluru +43 other locations",23.1k,572,--,"Work Life Balance, Company Culture, Skill Development / Learning","Job Security, Promotions / Appraisal"
+439,Sify Technologies,3.8k,1.8k,IT Services & Consulting - Chennai +120 other locations,9.2k,128,21,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+440,SBI Securities,3.8k,1.9k,Financial Services - Mumbai +279 other locations,6.1k,163,93,N/A,Promotions / Appraisal
+441,Cargill,4.0k,1.8k,"Food Processing - Bangalore , Bengaluru +106 other locations",7.6k,100,243,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal
+442,HSBC Electronic Data Processing,4.1k,1.8k,"Banking - Bangalore , Bengaluru +17 other locations",9k,71,--,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+443,CAMS,3.6k,1.8k,Financial Services - Chennai +98 other locations,7.9k,125,18,Job Security,"Promotions / Appraisal, Salary & Benefits"
+444,Meesho,3.7k,1.8k,"Internet - Bangalore , Bengaluru +115 other locations",7.7k,360,159,Salary & Benefits,"Job Security, Promotions / Appraisal"
+445,SAP,4.2k,1.8k,"Software Product - Bangalore , Bengaluru +50 other locations",15.3k,291,238,"Work Life Balance, Company Culture, Job Security",N/A
+446,Bharat Petroleum,4.1k,1.8k,Oil & Gas - Mumbai +240 other locations,6.4k,155,1,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal
+447,Brakes India,3.9k,1.8k,Auto Components - Chennai +85 other locations,6.6k,77,8,"Job Security, Skill Development / Learning",Promotions / Appraisal
+448,Delphi TVS,3.9k,1.8k,Auto Components - Chennai +49 other locations,5.3k,91,3,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits"
+449,Poonawalla Fincorp,3.7k,1.8k,NBFC - Pune +253 other locations,5k,66,26,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+450,Star Union Dai-ichi Life Insurance,3.8k,1.8k,Insurance - Mumbai +281 other locations,4.8k,100,65,N/A,N/A
+451,Henry Harvin Education,3.8k,1.9k,Noida +28 other locations,782,45,23,N/A,N/A
+452,SBI General Insurance,3.7k,1.8k,Insurance - Mumbai +256 other locations,5.9k,112,19,N/A,"Promotions / Appraisal, Work Satisfaction"
+453,Future Generali India Life Insurance,3.6k,1.8k,Insurance - Mumbai +183 other locations,6.7k,104,294,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+454,TaskUs,3.2k,1.8k,BPO - Indore +32 other locations,7.4k,186,191,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+455,Power Mech Projects,3.8k,1.8k,"Engineering & Construction - Hyderabad , Secunderabad +139 other locations",6.3k,102,9,Job Security,"Promotions / Appraisal, Salary & Benefits"
+456,Spark Minda,3.9k,1.8k,Auto Components - Pune +65 other locations,6.4k,134,7,N/A,Promotions / Appraisal
+457,Team Computers,3.7k,1.9k,IT Services & Consulting - New Delhi +94 other locations,8k,178,140,N/A,"Promotions / Appraisal, Salary & Benefits"
+458,BNP Paribas,3.8k,1.8k,Financial Services - Mumbai +25 other locations,15.4k,190,75,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+459,Tata Motors Finance,4.1k,1.8k,NBFC - Mumbai +243 other locations,4.4k,68,2,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+460,Senco Gold,4.4k,1.8k,Jewellery - Kolkata +73 other locations,1.3k,567,6,"Job Security, Skill Development / Learning, Company Culture",N/A
+461,ITC Hotels,4.1k,1.8k,"Bangalore , Bengaluru +83 other locations",5.1k,89,--,"Job Security, Skill Development / Learning, Company Culture",N/A
+462,CitiusTech,3.4k,1.8k,IT Services & Consulting - Mumbai +16 other locations,13.1k,284,18,N/A,"Promotions / Appraisal, Job Security, Salary & Benefits"
+463,Novartis,4.1k,1.8k,"Pharma - Hyderabad , Secunderabad +73 other locations",8.8k,151,222,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal
+464,Saint-Gobain,4.0k,1.7k,Engineering & Construction - Mumbai +93 other locations,10.1k,180,24,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+465,Foxconn,3.9k,1.8k,Electronics Manufacturing - Chennai +51 other locations,8.3k,174,50,Job Security,Promotions / Appraisal
+466,YASH Technologies,3.8k,1.8k,"IT Services & Consulting - Hyderabad , Secunderabad +28 other locations",15.5k,155,430,"Company Culture, Work Life Balance",Promotions / Appraisal
+467,JK Tyres,3.6k,1.7k,Auto Components - Chennai +131 other locations,6.5k,101,5,N/A,"Promotions / Appraisal, Company Culture, Work Life Balance"
+468,Kotak Securities,3.6k,1.8k,Financial Services - Mumbai +131 other locations,8.9k,124,23,N/A,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction"
+469,Morgan Stanley,3.6k,1.7k,Financial Services - Mumbai +17 other locations,22.2k,304,1,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+470,Google,4.4k,1.7k,"Software Product - Bangalore , Bengaluru +83 other locations",21.6k,886,70,"Company Culture, Work Life Balance, Salary & Benefits",N/A
+471,Mercedes-Benz Research and Development India,3.8k,1.7k,"IT Services & Consulting - Bangalore , Bengaluru +46 other locations",15.7k,191,6,"Work Life Balance, Job Security","Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+472,Daikin,4.1k,1.8k,Consumer Electronics & Appliances - Neemrana +99 other locations,6.8k,164,4,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+473,Future Retail,4.3k,1.7k,Retail - Mumbai +197 other locations,4.6k,55,--,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+474,AECOM,4.2k,1.7k,"Engineering & Construction - Gurgaon , Gurugram +116 other locations",6.2k,125,286,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+475,FirstCry,3.6k,1.7k,Internet - Pune +185 other locations,8k,184,24,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+476,Reliance General Insurance,3.7k,1.7k,Insurance - Mumbai +184 other locations,6.7k,87,--,N/A,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+477,L&T Energy Hydrocarbon,3.9k,1.7k,Engineering & Construction - Vadodara +81 other locations,7.9k,102,--,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Life Balance, Company Culture"
+478,IDBI Bank,3.5k,1.7k,Banking - Mumbai +304 other locations,5.6k,72,--,N/A,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+479,Crisil,3.6k,1.7k,Analytics & KPO - Mumbai +68 other locations,11.7k,198,534,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+480,Parle Products,3.9k,1.7k,FMCG - Mumbai +223 other locations,3.6k,99,9,Salary & Benefits,Promotions / Appraisal
+481,Honeywell Automation,3.8k,1.7k,Industrial Automation - Pune +75 other locations,11.2k,115,2,Job Security,"Promotions / Appraisal, Salary & Benefits"
+482,Lucas-TVS,3.9k,1.7k,Auto Components - Chennai +73 other locations,5.6k,81,--,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+483,KENT RO Systems,3.9k,1.7k,Consumer Electronics & Appliances - Noida +145 other locations,4.2k,87,9,"Work Life Balance, Work Satisfaction",N/A
+484,Dhani Loans and Services,3.8k,1.7k,"NBFC - Gurgaon , Gurugram +184 other locations",4.9k,70,7,N/A,"Job Security, Promotions / Appraisal"
+485,Gabriel India,4.1k,1.7k,Auto Components - Pune +44 other locations,5.4k,111,3,"Job Security, Skill Development / Learning, Company Culture",N/A
+486,Nuvoco Vistas,4.1k,1.7k,Building Material - Kolkata +170 other locations,6.1k,101,16,"Job Security, Skill Development / Learning, Salary & Benefits",N/A
+487,Biological E,4.2k,1.7k,"Pharma - Hyderabad , Secunderabad +61 other locations",6.6k,122,37,"Job Security, Company Culture, Work Life Balance",N/A
+488,NCR Corporation,3.7k,1.7k,"IT Services & Consulting - Hyderabad , Secunderabad +87 other locations",8.6k,136,201,N/A,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction"
+489,SGS,3.9k,1.7k,Clinical Research - Mumbai +130 other locations,5.9k,99,107,Work Life Balance,"Promotions / Appraisal, Salary & Benefits"
+490,Philips,3.8k,1.7k,"Consumer Electronics & Appliances - Bangalore , Bengaluru +87 other locations",10k,165,77,"Work Life Balance, Company Culture",Promotions / Appraisal
+491,Uflex,3.8k,1.7k,Packaging - Noida +44 other locations,6.4k,116,75,Job Security,"Promotions / Appraisal, Company Culture"
+492,Microland,3.5k,1.7k,"IT Services & Consulting - Bangalore , Bengaluru +43 other locations",10.5k,137,443,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+493,Paisabazaar.com,3.4k,1.7k,"Internet - Gurgaon , Gurugram +28 other locations",6.6k,151,22,N/A,"Job Security, Promotions / Appraisal, Work Life Balance"
+494,Narayana Health,4.0k,1.7k,"Healthcare - Bangalore , Bengaluru +62 other locations",5.6k,74,96,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+495,Infinite Computer Solutions,3.3k,1.7k,"IT Services & Consulting - Bangalore , Bengaluru +34 other locations",12.9k,155,182,N/A,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+496,R.R. Donnelley,3.8k,1.7k,Marketing & Advertising - Chennai +23 other locations,9.4k,113,16,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+497,American Broadcasting Company,4.0k,1.7k,"Bangalore , Bengaluru +106 other locations",24.8k,560,17,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+498,Angel One,3.9k,1.7k,FinTech - Mumbai +127 other locations,6.9k,145,52,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal
+499,Dr Lal PathLabs,4.2k,1.7k,Healthcare - New Delhi +176 other locations,4.2k,143,59,"Company Culture, Job Security, Skill Development / Learning",N/A
+500,Hindustan Aeronautics,4.3k,1.6k,"Defence & Aerospace - Bangalore , Bengaluru +60 other locations",4.1k,78,--,"Work Life Balance, Work Satisfaction, Job Security",N/A
+501,Sterling & Wilson,4.1k,1.6k,Engineering & Construction - Mumbai +111 other locations,7.2k,69,10,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+502,Thomson Reuters,4.1k,1.7k,"Software Product - Bangalore , Bengaluru +24 other locations",10k,124,250,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+503,Safexpress,4.0k,1.6k,Logistics - New Delhi +148 other locations,5.4k,112,--,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+504,TVS Sundram Fasteners,3.7k,1.6k,Auto Components - Chennai +55 other locations,6.5k,77,1,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+505,Iris Software,4.0k,1.6k,IT Services & Consulting - Noida +24 other locations,6.9k,170,41,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+506,Jio Platforms,3.4k,1.6k,IT Services & Consulting - Mumbai +89 other locations,11k,211,--,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+507,Torrent Power,3.7k,1.6k,Power - Ahmedabad +53 other locations,7k,141,38,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+508,AXA Business Services,3.9k,1.6k,Insurance - Pune +10 other locations,7.1k,90,7,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+509,EPAM Systems,3.7k,1.7k,"IT Services & Consulting - Hyderabad , Secunderabad +31 other locations",16.1k,567,38,"Skill Development / Learning, Salary & Benefits, Work Life Balance","Promotions / Appraisal, Job Security"
+510,NTPC,4.2k,1.6k,Power - New Delhi +114 other locations,3.9k,164,--,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+511,G R Infraprojects,4.1k,1.6k,"Engineering & Construction - Gurgaon , Gurugram +148 other locations",5.1k,144,24,"Skill Development / Learning, Salary & Benefits, Company Culture",N/A
+512,Motherson Automotive Technologies and Engineering,3.8k,1.6k,Auto Components - Chennai +62 other locations,6.7k,123,25,"Job Security, Skill Development / Learning",Promotions / Appraisal
+513,Honda Cars,4.3k,1.6k,Automobile - Bhiwadi +107 other locations,5.9k,93,--,"Company Culture, Work Life Balance, Job Security",N/A
+514,Kalyan Jewellers,4.6k,1.6k,Jewellery - Thrissur +139 other locations,1.3k,63,17,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+515,Globiva,3.1k,1.6k,"BPO - Gurgaon , Gurugram +25 other locations",4.7k,114,34,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+516,Newgen Software Technologies,3.8k,1.6k,IT Services & Consulting - Noida +28 other locations,10.6k,189,10,Job Security,N/A
+517,SS&C TECHNOLOGIES,3.3k,1.6k,IT Services & Consulting - Mumbai +29 other locations,12.8k,182,18,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+518,GAO Tek,4.4k,1.6k,Electrical Equipment - New York +36 other locations,226,248,--,"Work Life Balance, Skill Development / Learning, Company Culture",Salary & Benefits
+519,Cafe Coffee Day,3.7k,1.6k,"Hospitality - Bangalore , Bengaluru +98 other locations",3.8k,67,26,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+520,Vedantu,3.3k,1.6k,"EdTech - Bangalore , Bengaluru +68 other locations",9.3k,188,9,N/A,"Job Security, Promotions / Appraisal, Work Satisfaction"
+521,Adecco Group,3.7k,1.6k,"Bangalore , Bengaluru +159 other locations",6.6k,101,28,N/A,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+522,Medi Assist India,3.5k,1.6k,"Insurance - Bangalore , Bengaluru +59 other locations",6.8k,125,38,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+523,Aragen Life Sciences,4.0k,1.6k,"Clinical Research - Hyderabad , Secunderabad +26 other locations",6k,111,50,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+524,CMS Infosystems,3.6k,1.6k,Other - Mumbai +188 other locations,4.3k,62,12,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+525,PI Industries,4.0k,1.6k,Agro Chemicals - Bharuch +98 other locations,6.4k,117,10,"Salary & Benefits, Job Security, Skill Development / Learning",Promotions / Appraisal
+526,Zepto,3.5k,1.6k,"Internet - Bangalore , Bengaluru +71 other locations",5.8k,281,21,N/A,"Work Life Balance, Job Security, Promotions / Appraisal"
+527,Trident Group,3.4k,1.6k,Fashion & Textile - Barnala +54 other locations,5k,124,9,Salary & Benefits,"Job Security, Work Life Balance, Company Culture"
+528,MetLife,4.1k,1.6k,Insurance - Noida +40 other locations,8.1k,96,120,"Work Life Balance, Job Security, Company Culture",N/A
+529,Haier Appliances India,4.0k,1.6k,Consumer Electronics & Appliances - Pune +122 other locations,6.3k,138,36,Salary & Benefits,Promotions / Appraisal
+530,HTC Global Services,3.5k,1.6k,IT Services & Consulting - Chennai +30 other locations,11.9k,144,82,N/A,"Promotions / Appraisal, Skill Development / Learning, Company Culture"
+531,Altruist Technologies,3.2k,1.6k,"BPO - Bangalore , Bengaluru +39 other locations",7.6k,137,7,N/A,"Salary & Benefits, Promotions / Appraisal, Company Culture"
+532,V-Guard Industries,4.4k,1.6k,Consumer Electronics & Appliances - Kochi +149 other locations,4.2k,69,20,"Company Culture, Work Life Balance, Job Security",N/A
+533,Spinny,3.7k,1.6k,"Internet - Gurgaon , Gurugram +58 other locations",6.3k,180,22,N/A,"Promotions / Appraisal, Job Security, Work Life Balance"
+534,Infinx,3.9k,1.6k,"Software Product - Hyderabad , Secunderabad +35 other locations",4.7k,188,18,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+535,NEC,4.3k,1.6k,IT Services & Consulting - Noida +53 other locations,5.4k,70,11,"Work Life Balance, Company Culture, Work Satisfaction",N/A
+536,Innovsource Services,3.9k,1.6k,Recruitment - Mumbai +223 other locations,4.3k,68,--,N/A,Promotions / Appraisal
+537,Fusion CX,3.5k,1.6k,Kolkata +48 other locations,4k,111,55,N/A,"Promotions / Appraisal, Job Security, Salary & Benefits"
+538,Indian Navy,4.6k,1.6k,Defence & Aerospace - Mumbai +69 other locations,3.4k,25,--,"Job Security, Skill Development / Learning, Company Culture",N/A
+539,Tata Power,3.9k,1.6k,Power - Mumbai +140 other locations,6.6k,184,4,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+540,BT Business,4.0k,1.6k,"Hardware & Networking - Gurgaon , Gurugram +11 other locations",8.9k,86,1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+541,DHL Supply Chain,4.1k,1.6k,Logistics - Mumbai +89 other locations,5.4k,94,15,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+542,Trent,4.0k,1.5k,Retail - Mumbai +129 other locations,4.1k,88,27,"Job Security, Company Culture, Skill Development / Learning",N/A
+543,Tata Play,4.0k,1.5k,Broadcasting - Mumbai +212 other locations,4.5k,75,--,"Company Culture, Job Security, Salary & Benefits",N/A
+544,USHA International,4.1k,1.5k,"Consumer Electronics & Appliances - Gurgaon , Gurugram +130 other locations",4.5k,94,9,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+545,BA Continuum,4.1k,1.5k,"NBFC - Hyderabad , Secunderabad +17 other locations",9.8k,103,--,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+546,Jindal Saw,4.0k,1.5k,Iron & Steel - Mundra +71 other locations,5.9k,120,8,Job Security,N/A
+547,Metro Cash & Carry,4.1k,1.5k,"Retail - Bangalore , Bengaluru +83 other locations",4.7k,65,--,"Job Security, Skill Development / Learning, Company Culture",N/A
+548,Tata Communications Transformation Services,4.0k,1.5k,Telecom - Pune +88 other locations,8k,88,--,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+549,Reckitt Benckiser,4.0k,1.5k,"FMCG - Gurgaon , Gurugram +119 other locations",5.9k,92,41,"Salary & Benefits, Work Life Balance",Promotions / Appraisal
+550,Aadhar Housing Finance,4.1k,1.5k,Financial Services - Mumbai +291 other locations,4.3k,104,4,"Skill Development / Learning, Salary & Benefits, Company Culture",N/A
+551,Exela Technologies,3.3k,1.5k,IT Services & Consulting - Chennai +26 other locations,7.7k,90,--,N/A,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+552,NeoSOFT,3.6k,1.6k,IT Services & Consulting - Mumbai +23 other locations,9.8k,277,13,N/A,"Job Security, Promotions / Appraisal"
+553,Manipal Hospitals,4.1k,1.5k,"Healthcare - Bangalore , Bengaluru +64 other locations",5.7k,99,53,"Job Security, Skill Development / Learning, Company Culture",N/A
+554,First American Corporation,3.5k,1.5k,"Insurance - Bangalore , Bengaluru +21 other locations",8.4k,80,47,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+555,MagicBricks,4.2k,1.5k,Internet - Noida +32 other locations,4.1k,335,66,"Work Life Balance, Skill Development / Learning, Salary & Benefits",N/A
+556,Aditya Birla Health Insurance Co,3.9k,1.5k,Insurance - Mumbai +230 other locations,6.6k,93,4,"Job Security, Skill Development / Learning",Promotions / Appraisal
+557,Polycab Wires,4.0k,1.5k,Electrical Equipment - Vadodara +148 other locations,6.2k,110,8,"Work Life Balance, Salary & Benefits",N/A
+558,Tata Teleservices,4.0k,1.5k,Telecom - Mumbai +134 other locations,3.4k,30,40,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal
+559,USV,4.0k,1.5k,Pharma - Mumbai +99 other locations,5.3k,76,28,"Company Culture, Work Life Balance, Job Security",N/A
+560,Matrimony.com,4.2k,1.5k,Internet - Chennai +62 other locations,4.3k,94,19,"Company Culture, Work Life Balance, Job Security",N/A
+561,HCL Infosystems,3.9k,1.5k,"IT Services & Consulting - Bangalore , Bengaluru +105 other locations",7.7k,143,1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+562,DIVI'S Laboratories,3.7k,1.5k,Pharma - Visakhapatnam +34 other locations,6.3k,81,--,Job Security,"Company Culture, Work Satisfaction, Promotions / Appraisal"
+563,Shadowfax Technologies,3.5k,1.5k,"Logistics - Bangalore , Bengaluru +201 other locations",6.2k,138,18,N/A,"Job Security, Promotions / Appraisal, Company Culture"
+564,Tata Electronics,4.0k,1.5k,Semiconductors - Hosur +31 other locations,7.1k,169,15,"Job Security, Company Culture",Promotions / Appraisal
+565,FactSet,3.8k,1.5k,"Financial Services - Hyderabad , Secunderabad +16 other locations",9.5k,215,35,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Skill Development / Learning, Salary & Benefits"
+566,Hindustan Petroleum,4.2k,1.5k,Oil & Gas - Mumbai +230 other locations,5.4k,107,--,"Company Culture, Work Life Balance, Job Security",N/A
+567,Chegg,4.1k,1.5k,EdTech - New Delhi +78 other locations,3.9k,159,11,"Work Life Balance, Company Culture, Skill Development / Learning","Job Security, Promotions / Appraisal"
+568,Honda,4.1k,1.5k,"Automobile - Gurgaon , Gurugram +213 other locations",4.2k,104,4,"Work Life Balance, Job Security, Company Culture",N/A
+569,HighRadius,2.8k,1.5k,"Software Product - Hyderabad , Secunderabad +16 other locations",7.8k,197,13,N/A,"Job Security, Work Satisfaction, Company Culture"
+570,Mother Dairy Fruit & Vegetable,4.1k,1.5k,Food Processing - New Delhi +119 other locations,4.6k,81,--,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+571,Cavinkare,4.0k,1.5k,FMCG - Chennai +158 other locations,4.8k,62,12,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+572,HERE Technologies,3.8k,1.5k,IT Services & Consulting - Mumbai +17 other locations,7.4k,98,16,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits"
+573,Orange Business,4.3k,1.5k,"IT Services & Consulting - Gurgaon , Gurugram +49 other locations",8.5k,102,152,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+574,CMA CGM,3.9k,1.5k,Ports & Shipping - Chennai +29 other locations,8k,96,20,"Job Security, Company Culture",Promotions / Appraisal
+575,Bata,3.6k,1.5k,"Fashion & Textile - Gurgaon , Gurugram +136 other locations",3.8k,68,3,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+576,Frankfinn Institute of Air Hostess Training,3.9k,1.5k,"Education & Training - Gurgaon , Gurugram +59 other locations",3.3k,108,52,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+577,JSW Bhushan Power & Steel,4.0k,1.5k,Jharsuguda +57 other locations,4.8k,64,--,Skill Development / Learning,Promotions / Appraisal
+578,Verizon,4.0k,1.5k,"Telecom - Hyderabad , Secunderabad +10 other locations",10.4k,117,108,"Salary & Benefits, Company Culture, Work Life Balance",Promotions / Appraisal
+579,Yamaha Motor,4.1k,1.5k,Automobile - Chennai +138 other locations,5k,71,--,"Work Life Balance, Work Satisfaction, Company Culture",Promotions / Appraisal
+580,Isgec Heavy Engineering,3.8k,1.5k,Industrial Machinery - Noida +81 other locations,6.4k,127,40,Job Security,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+581,DHL Express,4.1k,1.5k,Logistics - Mumbai +90 other locations,5.9k,71,--,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+582,ICICI Home Finance,3.8k,1.5k,Financial Services - Mumbai +200 other locations,4.7k,85,2,Salary & Benefits,Work Satisfaction
+583,Arvind Group,4.0k,1.5k,Fashion & Textile - Ahmedabad +86 other locations,5.1k,66,--,"Work Life Balance, Job Security",Promotions / Appraisal
+584,Security and Intelligence Services (India),4.2k,1.5k,Law Enforcement & Security - New Delhi +180 other locations,4.1k,65,101,"Job Security, Work Life Balance, Company Culture",N/A
+585,Johnson & Johnson,4.0k,1.5k,Healthcare - Mumbai +153 other locations,5.6k,100,8,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+586,Haldiram Foods International Limited,3.8k,1.5k,FMCG - Nagpur +134 other locations,5.4k,127,--,N/A,"Promotions / Appraisal, Company Culture"
+587,Aye Finance,4.1k,1.5k,"NBFC - Gurgaon , Gurugram +310 other locations",3.1k,70,37,"Salary & Benefits, Company Culture, Work Life Balance",N/A
+588,KONE,4.1k,1.4k,Industrial Machinery - Chennai +66 other locations,5.4k,114,29,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+589,HDFC Securities,3.5k,1.5k,Mumbai +176 other locations,5.7k,111,43,N/A,"Work Satisfaction, Promotions / Appraisal, Company Culture"
+590,CorroHealth infotech,3.2k,1.5k,"Analytics & KPO - Hyderabad , Secunderabad +28 other locations",5.9k,161,73,N/A,"Work Life Balance, Company Culture, Work Satisfaction"
+591,Procter & Gamble,4.1k,1.4k,FMCG - Mumbai +229 other locations,5.3k,121,--,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+592,Wockhardt,3.8k,1.4k,Pharma - Aurangabad +80 other locations,4k,54,16,"Work Life Balance, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+593,Vardhman Fabrics,4.0k,1.4k,Fashion & Textile - Baddi +56 other locations,5.1k,66,7,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+594,Stellar Migration,1.4k,1.4k,Dubai +2 other locations,--,2,--,N/A,"Company Culture, Work Life Balance, Work Satisfaction"
+595,Medanta the Medicity,4.0k,1.4k,"Gurgaon , Gurugram +41 other locations",4.6k,104,55,"Job Security, Skill Development / Learning",Promotions / Appraisal
+596,Air India,3.6k,1.4k,Aviation - New Delhi +60 other locations,6.4k,160,9,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+597,Taurus BPO Services,4.5k,1.4k,BPO - Pune +19 other locations,808,28,2,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+598,Hero Motors Company,4.0k,1.4k,Automobile - Ghaziabad +214 other locations,5.7k,90,3,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal
+599,Wipro Enterprises Ltd,3.8k,1.4k,"FMCG - Bangalore , Bengaluru +109 other locations",7.3k,181,125,Job Security,"Promotions / Appraisal, Salary & Benefits"
+600,Caterpillar Inc,4.2k,1.4k,Industrial Machinery - Chennai +40 other locations,9.2k,185,105,"Company Culture, Work Life Balance, Job Security",N/A
+601,Pine Labs,3.3k,1.4k,Financial Services - Noida +97 other locations,6.3k,121,8,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+602,CG Power and Industrial Solutions,3.9k,1.4k,Electrical Equipment - Bhopal +89 other locations,5.9k,89,--,Job Security,Promotions / Appraisal
+603,AkzoNobel,4.0k,1.4k,Chemicals - Pune +143 other locations,3.9k,66,25,"Company Culture, Salary & Benefits, Work Life Balance",Promotions / Appraisal
+604,Emami,3.9k,1.4k,FMCG - Kolkata +165 other locations,4.8k,93,7,"Job Security, Work Life Balance",Promotions / Appraisal
+605,TELUS Digital,3.7k,1.4k,BPO - Noida +23 other locations,8.4k,111,43,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+606,Mercer,3.7k,1.4k,Management Consulting - New Delhi +18 other locations,9.1k,86,104,Job Security,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+607,XL Dynamics,3.1k,1.4k,IT Services & Consulting - Mumbai +29 other locations,3.4k,85,7,N/A,"Job Security, Company Culture, Work Life Balance"
+608,Marico,3.9k,1.4k,FMCG - Mumbai +167 other locations,5.2k,96,17,"Salary & Benefits, Company Culture, Job Security",Promotions / Appraisal
+609,Cushman & Wakefield,4.1k,1.4k,"Real Estate - Gurgaon , Gurugram +42 other locations",5.8k,90,55,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+610,Belrise Industries,3.8k,1.4k,Auto Components - Pune +48 other locations,5.9k,98,12,N/A,"Promotions / Appraisal, Salary & Benefits"
+611,Oracle Cerner,3.7k,1.4k,"Software Product - Bangalore , Bengaluru +6 other locations",10.3k,160,--,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Salary & Benefits"
+612,L.G.Balakrishnan & Bros,3.6k,1.4k,Auto Components - Coimbatore +54 other locations,5.5k,65,2,N/A,"Salary & Benefits, Promotions / Appraisal, Company Culture"
+613,ZF Commercial Vehicle Control Systems,3.9k,1.4k,Auto Components - Chennai +43 other locations,3.5k,61,--,N/A,"Promotions / Appraisal, Job Security"
+614,Honeywell Technology Solutions,3.7k,1.4k,"Defence & Aerospace - Bangalore , Bengaluru +19 other locations",11.3k,155,43,Job Security,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+615,Godrej Properties,3.6k,1.4k,Real Estate - Mumbai +32 other locations,7.2k,102,12,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction, Company Culture"
+616,CSB Bank,3.2k,1.4k,Banking - Mumbai +197 other locations,6.1k,84,6,N/A,"Company Culture, Work Satisfaction, Promotions / Appraisal"
+617,iOPEX Technologies,3.4k,1.4k,IT Services & Consulting - Chennai +15 other locations,5.2k,73,5,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+618,Capri Global Capital,3.6k,1.4k,NBFC - New Delhi +280 other locations,3.7k,65,46,N/A,"Work Satisfaction, Job Security, Promotions / Appraisal"
+619,Marriott International,4.2k,1.4k,"Hospitality - Bangalore , Bengaluru +86 other locations",4.7k,89,802,"Job Security, Skill Development / Learning, Company Culture",N/A
+620,Max Fashion,4.1k,1.4k,"Retail - Bangalore , Bengaluru +145 other locations",3.3k,62,5,"Skill Development / Learning, Company Culture, Job Security",N/A
+621,LivSpace,3.6k,1.4k,"Architecture & Interior Design - Bangalore , Bengaluru +49 other locations",7.2k,149,210,N/A,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+622,Tesco,3.8k,1.4k,"Retail - Bangalore , Bengaluru +16 other locations",7.9k,135,50,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+623,IDC Technologies,3.2k,1.4k,IT Services & Consulting - Noida +62 other locations,7.2k,71,--,N/A,"Promotions / Appraisal, Job Security, Company Culture"
+624,Tata Group,4.2k,1.4k,IT Services & Consulting - Mumbai +165 other locations,5.1k,370,3,"Company Culture, Work Life Balance, Job Security",N/A
+625,Goldman Sachs,3.5k,1.4k,"Bangalore , Bengaluru +22 other locations",16.6k,387,650,N/A,"Work Life Balance, Work Satisfaction, Job Security"
+626,Hitachi Astemo,4.0k,1.4k,Auto Components - Neemrana +44 other locations,5.4k,122,--,"Company Culture, Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits"
+627,Dainik Bhaskar Group,4.2k,1.4k,Printing & Publishing - Bhopal +133 other locations,4.3k,62,68,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+628,Welspun Living Limited,4.0k,1.3k,Fashion & Textile - Anjar +74 other locations,4.6k,70,1,"Skill Development / Learning, Company Culture, Job Security",N/A
+629,KFC,4.1k,1.4k,New Delhi +159 other locations,2.9k,66,--,"Skill Development / Learning, Company Culture, Job Security",N/A
+630,Oberoi Group of Hotels,4.1k,1.3k,Hospitality - New Delhi +34 other locations,3.8k,92,--,"Job Security, Skill Development / Learning, Company Culture",N/A
+631,Granules India Limited,3.8k,1.3k,"Pharma - Hyderabad , Secunderabad +17 other locations",5.7k,71,4,N/A,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+632,Krishna Maruti,3.9k,1.3k,"Auto Components - Gurgaon , Gurugram +39 other locations",4.8k,103,11,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+633,Bajaj Capital,3.7k,1.3k,Financial Services - New Delhi +156 other locations,3.6k,86,91,N/A,Promotions / Appraisal
+634,Big Bazaar,4.3k,1.3k,Retail - New Delhi +157 other locations,3.1k,43,7,"Skill Development / Learning, Company Culture, Work Satisfaction",N/A
+635,Broadridge Financial Solutions,3.9k,1.3k,"FinTech - Hyderabad , Secunderabad +12 other locations",10.1k,144,86,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+636,Teva Pharmaceuticals,4.0k,1.3k,Pharma - Mumbai +49 other locations,5.2k,95,4,"Work Life Balance, Company Culture",Promotions / Appraisal
+637,Aon,3.8k,1.3k,"Financial Services - Gurgaon , Gurugram +23 other locations",5.6k,71,38,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+638,Compass Group Support Services,4.0k,1.3k,"Facility Management Services - Bangalore , Bengaluru +68 other locations",5k,66,8,"Company Culture, Work Life Balance, Job Security",N/A
+639,AB InBev India,3.4k,1.3k,"Beverage - Bangalore , Bengaluru +74 other locations",7.1k,107,68,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+640,K12 Techno Services,3.0k,1.4k,"EdTech - Bangalore , Bengaluru +36 other locations",4.8k,162,200,N/A,"Job Security, Promotions / Appraisal, Company Culture"
+641,TTEC India,3.7k,1.3k,BPO - Ahmedabad +31 other locations,4.8k,139,18,Company Culture,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+642,Asahi India Glass,3.8k,1.3k,Auto Components - Chennai +78 other locations,4.6k,88,3,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+643,Suguna Foods,4.0k,1.3k,Food Processing - Coimbatore +182 other locations,3.8k,77,18,N/A,Promotions / Appraisal
+644,Nayara Energy,4.1k,1.3k,Petrochemicals - Jamnagar +89 other locations,5.7k,85,3,"Salary & Benefits, Job Security, Company Culture",N/A
+645,Annapurna Finance,4.0k,1.3k,NBFC - Bhubaneswar +337 other locations,3.4k,73,9,"Salary & Benefits, Job Security",N/A
+646,Godrej Industries Group,3.9k,1.3k,Chemicals - Mumbai +132 other locations,2.8k,131,9,"Job Security, Company Culture",Promotions / Appraisal
+647,Clover Infotech,3.5k,1.3k,IT Services & Consulting - Mumbai +21 other locations,10.6k,118,134,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+648,IFB,3.6k,1.3k,"Consumer Electronics & Appliances - Bangalore , Bengaluru +157 other locations",4.9k,103,--,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+649,ITD Cementation India,4.3k,1.3k,Engineering & Construction - Kolkata +81 other locations,4k,78,7,"Job Security, Company Culture, Work Satisfaction",N/A
+650,Gland Pharma,3.9k,1.3k,"Medical Equipment - Hyderabad , Secunderabad +31 other locations",5.7k,82,6,"Work Life Balance, Job Security",Salary & Benefits
+651,Relaxo Footwear,4.1k,1.3k,Fashion & Textile - New Delhi +140 other locations,4.3k,92,51,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+652,Hyatt Regency,4.2k,1.3k,Hospitality - New Delhi +45 other locations,3.2k,44,--,"Company Culture, Job Security, Skill Development / Learning",N/A
+653,Evalueserve,3.2k,1.3k,"IT Services & Consulting - Gurgaon , Gurugram +14 other locations",9.6k,124,66,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+654,NIIT,3.6k,1.3k,"Education & Training - Gurgaon , Gurugram +102 other locations",5.9k,91,59,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+655,TCS iON,3.9k,1.3k,IT Services & Consulting - Chennai +107 other locations,3.8k,382,--,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+656,Satin Creditcare Network,4.0k,1.3k,"NBFC - Gurgaon , Gurugram +271 other locations",2.9k,52,14,"Company Culture, Work Life Balance, Job Security",N/A
+657,Toyota Kirloskar Motor,4.4k,1.3k,"Automobile - Bangalore , Bengaluru +83 other locations",4k,57,--,"Company Culture, Skill Development / Learning, Job Security",N/A
+658,Adani Green Energy,4.1k,1.3k,Power - Ahmedabad +96 other locations,4.9k,119,--,"Job Security, Skill Development / Learning, Salary & Benefits",N/A
+659,Supreme Industries,4.0k,1.3k,Petrochemicals - Gwalior +110 other locations,5.1k,77,--,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+660,Faurecia,3.9k,1.3k,Auto Components - Pune +28 other locations,6.1k,68,122,"Company Culture, Skill Development / Learning",Promotions / Appraisal
+661,GMR Group,4.0k,1.3k,Engineering & Construction - New Delhi +62 other locations,4.2k,89,144,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+662,Sony,4.2k,1.3k,Consumer Electronics & Appliances - New Delhi +133 other locations,4.4k,75,18,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+663,Daimler India Commercial Vehicles,4.0k,1.3k,Automobile - Chennai +44 other locations,6.2k,65,17,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+664,Sheenlac Paints,4.5k,1.3k,Chemicals - Chennai +159 other locations,1.6k,206,1,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+665,Sanofi,4.2k,1.3k,"Pharma - Hyderabad , Secunderabad +81 other locations",4.7k,75,166,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal
+666,Sysnet Global Technologies,3.8k,1.5k,IT Services & Consulting - New Delhi +128 other locations,3.8k,118,119,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+667,Ashoka Buildcon,4.1k,1.3k,Engineering & Construction - Nashik +144 other locations,4k,70,2,"Salary & Benefits, Company Culture, Work Life Balance",N/A
+668,Devyani International,3.8k,1.3k,Hospitality - New Delhi +114 other locations,3.3k,56,13,Skill Development / Learning,Promotions / Appraisal
+669,FedEx Express,3.9k,1.3k,Logistics - Mumbai +93 other locations,4.4k,98,23,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+670,Gujarat Fluorochemicals,3.9k,1.3k,Chemicals - Bharuch +27 other locations,5.9k,90,71,"Job Security, Work Life Balance",Promotions / Appraisal
+671,Canara Bank,3.4k,1.3k,"Banking - Bangalore , Bengaluru +185 other locations",3.7k,46,--,Job Security,"Work Life Balance, Company Culture, Work Satisfaction"
+672,Valeo,4.0k,1.3k,Auto Components - Chennai +21 other locations,7.5k,96,101,"Work Life Balance, Job Security, Salary & Benefits",Promotions / Appraisal
+673,Amul India,4.1k,1.3k,Food Processing - Mumbai +188 other locations,3.7k,131,5,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+674,NTT DATA Business Solutions,3.8k,1.3k,"IT Services & Consulting - Bangalore , Bengaluru +31 other locations",10.8k,79,84,N/A,Promotions / Appraisal
+675,Lumax Industries,4.0k,1.3k,"Auto Components - Gurgaon , Gurugram +34 other locations",5.4k,81,5,"Job Security, Skill Development / Learning",Promotions / Appraisal
+676,Oracle Financial Services Software,3.5k,1.3k,"Software Product - Bangalore , Bengaluru +21 other locations",11.2k,180,--,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+677,QualityKiosk Technologies,3.4k,1.3k,IT Services & Consulting - Mumbai +20 other locations,10.3k,151,307,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+678,ISS Facility Services,4.1k,1.3k,Facility Management Services - Mumbai +63 other locations,3.9k,60,22,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+679,Xiaomi,3.8k,1.3k,"Consumer Electronics & Appliances - Bangalore , Bengaluru +200 other locations",5.4k,97,8,N/A,Promotions / Appraisal
+680,Aforeserve,3.4k,1.3k,IT Services & Consulting - Mumbai +151 other locations,3.7k,84,35,N/A,"Promotions / Appraisal, Salary & Benefits, Job Security"
+681,Narayana Educational Society,3.6k,1.3k,"Hyderabad , Secunderabad +139 other locations",4.1k,61,18,N/A,"Promotions / Appraisal, Work Life Balance, Company Culture"
+682,Patanjali Foods,3.8k,1.3k,FMCG - Indore +204 other locations,3.6k,69,1,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+683,Bharat Forge,3.9k,1.3k,Auto Components - Pune +26 other locations,5.7k,62,6,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+684,Bisleri,4.2k,1.3k,Beverage - Mumbai +149 other locations,3.9k,100,8,"Job Security, Work Life Balance, Salary & Benefits",N/A
+685,JioMart,3.9k,1.3k,Retail - Mumbai +283 other locations,3.9k,100,--,"Skill Development / Learning, Salary & Benefits","Promotions / Appraisal, Job Security"
+686,Tata 1mg,3.6k,1.3k,"Internet - Gurgaon , Gurugram +58 other locations",5.9k,176,51,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+687,The Muthoot Group,3.5k,1.3k,Financial Services - New Delhi +286 other locations,3.8k,76,--,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+688,Steel Strips Wheels,3.7k,1.3k,Auto Components - Chennai +47 other locations,5.1k,70,3,N/A,"Company Culture, Promotions / Appraisal, Work Life Balance"
+689,CIE Automotive,3.6k,1.2k,Auto Components - Pune +45 other locations,4.5k,78,2,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+690,Provana,4.0k,1.3k,BPO - Noida +10 other locations,3.5k,144,36,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+691,Dixon Technologies,4.0k,1.3k,Electronics Manufacturing - Noida +39 other locations,5.1k,122,12,"Job Security, Skill Development / Learning",N/A
+692,Paytm Payments Bank,3.9k,1.2k,Banking - Noida +126 other locations,5.9k,131,--,Work Life Balance,"Promotions / Appraisal, Job Security"
+693,Collabera Technologies,3.5k,1.2k,"IT Services & Consulting - Bangalore , Bengaluru +47 other locations",7.1k,136,4,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+694,Veritas Finance,4.6k,1.3k,NBFC - Chennai +267 other locations,1.9k,78,--,"Company Culture, Work Life Balance, Job Security",N/A
+695,GE Vernova,4.2k,1.2k,"Power - Bangalore , Bengaluru +71 other locations",4.6k,95,4,"Company Culture, Work Life Balance, Salary & Benefits","Job Security, Promotions / Appraisal"
+696,Indegene,3.4k,1.2k,"Analytics & KPO - Bangalore , Bengaluru +29 other locations",8.4k,156,51,N/A,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+697,IIFL SAMASTA,3.9k,1.2k,"NBFC - Bangalore , Bengaluru +336 other locations",2.7k,69,4,"Job Security, Skill Development / Learning",N/A
+698,Digit Insurance,3.9k,1.2k,"Internet - Bangalore , Bengaluru +75 other locations",4.7k,155,103,"Job Security, Skill Development / Learning, Company Culture",N/A
+699,ReNew,4.2k,1.3k,"Power - Gurgaon , Gurugram +93 other locations",5.2k,101,119,"Job Security, Company Culture, Skill Development / Learning",N/A
+700,Schindler,3.9k,1.2k,Industrial Machinery - Pune +63 other locations,4.8k,82,28,"Skill Development / Learning, Company Culture, Salary & Benefits",Promotions / Appraisal
+701,IndiaFirst Life Insurance,3.9k,1.2k,Insurance - Mumbai +211 other locations,3.3k,67,26,Salary & Benefits,N/A
+702,Unisys,3.6k,1.2k,"IT Services & Consulting - Bangalore , Bengaluru +15 other locations",9.5k,75,8,N/A,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+703,Tietoevry,4.2k,1.2k,IT Services & Consulting - Pune +12 other locations,9.1k,94,14,"Work Life Balance, Company Culture, Work Satisfaction",N/A
+704,NielsenIQ,3.7k,1.2k,IT Services & Consulting - Chennai +47 other locations,7.1k,191,8,"Company Culture, Work Life Balance","Promotions / Appraisal, Skill Development / Learning, Salary & Benefits"
+705,NSE.IT,3.6k,1.3k,IT Services & Consulting - Mumbai +146 other locations,6.1k,135,--,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+706,Tanishq,4.3k,1.2k,New Delhi +209 other locations,2.8k,83,2,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+707,VLCC,3.5k,1.2k,Beauty & Personal Care - New Delhi +104 other locations,3.2k,44,3,N/A,"Promotions / Appraisal, Company Culture, Work Life Balance"
+708,J. Kumar Infraprojects,4.0k,1.2k,Engineering & Construction - Mumbai +38 other locations,4.4k,76,1,"Work Life Balance, Job Security, Work Satisfaction",Promotions / Appraisal
+709,Indoco Remedies,3.5k,1.2k,Pharma - Mumbai +71 other locations,5.3k,75,1,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+710,Bharat FIH,3.9k,1.2k,Electronics Manufacturing - Chennai +36 other locations,5.3k,79,6,"Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+711,Sigma Electric Manufacturing Corporation,4.0k,1.2k,Industrial Machinery - Pune +21 other locations,3.2k,68,11,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal
+712,Wheelseye Technology,3.6k,1.2k,"Internet - Gurgaon , Gurugram +212 other locations",3.3k,101,4,N/A,"Job Security, Promotions / Appraisal, Work Satisfaction"
+713,GE,4.2k,1.2k,"Defence & Aerospace - Bangalore , Bengaluru +70 other locations",7.2k,106,10,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+714,Sonata Software,3.4k,1.2k,"IT Services & Consulting - Bangalore , Bengaluru +13 other locations",10.6k,121,41,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+715,Shriram Life Insurance,3.5k,1.2k,"Insurance - Hyderabad , Secunderabad +275 other locations",3.9k,91,26,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+716,Dell EMC,4.0k,1.2k,"IT Services & Consulting - Bangalore , Bengaluru +53 other locations",9.4k,70,--,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+717,Acuity Knowledge Partners,3.3k,1.2k,"Analytics & KPO - Bangalore , Bengaluru +16 other locations",9.9k,159,100,N/A,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+718,Amara Raja Energy & Mobility,4.1k,1.2k,Auto Components - Tirupati +88 other locations,3.6k,88,--,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+719,Sharekhan,3.8k,1.2k,Financial Services - Mumbai +111 other locations,4.7k,90,43,N/A,"Promotions / Appraisal, Salary & Benefits"
+720,Amity University,3.6k,1.2k,Education & Training - Noida +80 other locations,4.8k,101,215,Job Security,"Promotions / Appraisal, Skill Development / Learning, Salary & Benefits"
+721,Jindal X,3.5k,1.2k,New Delhi +21 other locations,2.8k,106,9,N/A,"Job Security, Promotions / Appraisal, Work Life Balance"
+722,AtkinsRealis,3.9k,1.2k,"Engineering & Construction - Bangalore , Bengaluru +55 other locations",5.2k,91,104,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+723,Morningstar,3.9k,1.2k,Financial Services - Mumbai +18 other locations,8.4k,251,131,"Company Culture, Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits"
+724,Adobe,3.9k,1.2k,Software Product - Noida +21 other locations,10.5k,247,201,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+725,Suryoday Small Finance Bank,3.9k,1.2k,Banking - Mumbai +182 other locations,4.2k,79,23,Salary & Benefits,N/A
+726,Hinduja Leyland Finance,4.0k,1.2k,NBFC - Chennai +266 other locations,2.5k,39,12,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+727,Vfs Global Services,3.6k,1.2k,IT Services & Consulting - Mumbai +30 other locations,4.2k,65,21,N/A,"Promotions / Appraisal, Work Life Balance, Work Satisfaction"
+728,Heritage Foods,4.1k,1.2k,"Food Processing - Hyderabad , Secunderabad +114 other locations",3.5k,86,56,"Job Security, Salary & Benefits, Company Culture",N/A
+729,Tata AutoComp Systems,3.9k,1.2k,Auto Components - Pune +39 other locations,5.9k,100,38,Job Security,Promotions / Appraisal
+730,Tekwissen,4.8k,1.2k,IT Services & Consulting - Visakhapatnam +5 other locations,508,21,250,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+731,SAI Life Sciences,4.0k,1.2k,"Clinical Research - Hyderabad , Secunderabad +24 other locations",5.2k,89,43,"Salary & Benefits, Company Culture, Skill Development / Learning",Promotions / Appraisal
+732,Kantar,3.5k,1.2k,"Analytics & KPO - Bangalore , Bengaluru +41 other locations",6.2k,106,32,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+733,Apco Infratech,3.7k,1.2k,Engineering & Construction - Lucknow +83 other locations,4k,120,20,N/A,"Company Culture, Job Security, Promotions / Appraisal"
+734,Hindware Limited,3.9k,1.2k,"Building Material - Hyderabad , Secunderabad +123 other locations",4.4k,74,2,Work Life Balance,Promotions / Appraisal
+735,Karur Vysya Bank,3.6k,1.2k,Banking - Chennai +172 other locations,4.1k,83,62,N/A,"Promotions / Appraisal, Company Culture, Work Life Balance"
+736,Infogain,3.6k,1.2k,IT Services & Consulting - Noida +23 other locations,10.7k,129,131,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+737,Jaquar,4.1k,1.2k,"Building Material - Gurgaon , Gurugram +103 other locations",4.5k,66,4,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+738,Unichem Laboratories,3.8k,1.2k,Pharma - Ghaziabad +73 other locations,4.9k,87,23,Job Security,Promotions / Appraisal
+739,Panasonic,4.0k,1.2k,"Consumer Electronics & Appliances - Gurgaon , Gurugram +122 other locations",5k,46,32,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+740,Spicejet,3.6k,1.2k,Aviation - New Delhi +59 other locations,5.1k,92,4,N/A,"Promotions / Appraisal, Salary & Benefits, Job Security"
+741,Urban Company,3.4k,1.2k,"Internet - Gurgaon , Gurugram +54 other locations",5.3k,142,32,N/A,"Job Security, Promotions / Appraisal, Work Life Balance"
+742,Fabindia,4.0k,1.2k,Retail - New Delhi +82 other locations,4k,54,4,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+743,Slk Software Services,3.2k,1.2k,"IT Services & Consulting - Bangalore , Bengaluru +12 other locations",8.7k,102,118,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+744,Continental Automotive Components,4.1k,1.2k,"Auto Components - Bangalore , Bengaluru +21 other locations",8.6k,75,47,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+745,Pantaloons,4.2k,1.2k,Mumbai +147 other locations,2.9k,61,--,"Job Security, Skill Development / Learning, Company Culture",N/A
+746,Aptara,3.2k,1.2k,Content Development - Noida +12 other locations,6.1k,66,11,N/A,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+747,Aditya Birla Finance,3.9k,1.2k,NBFC - Mumbai +190 other locations,5.1k,47,4,"Salary & Benefits, Company Culture, Work Life Balance",Promotions / Appraisal
+748,Infra.Market,4.1k,1.2k,Building Material - Mumbai +94 other locations,2.9k,129,11,"Company Culture, Salary & Benefits, Work Life Balance",N/A
+749,Sansera Engineering,4.1k,1.2k,"Auto Components - Bangalore , Bengaluru +27 other locations",4.9k,79,61,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+750,Hindustan Construction Company,4.2k,1.2k,Engineering & Construction - Mumbai +87 other locations,3.3k,86,5,"Company Culture, Job Security, Skill Development / Learning",N/A
+751,AGS Transact Technologies,3.0k,1.2k,FinTech - Mumbai +113 other locations,4.1k,40,--,N/A,"Promotions / Appraisal, Salary & Benefits, Job Security"
+752,Piramal Group,3.8k,1.2k,Financial Services - Mumbai +126 other locations,4k,64,192,Skill Development / Learning,Promotions / Appraisal
+753,DCM Shriram,4.2k,1.2k,Chemicals - Bharuch +94 other locations,4.4k,97,2,"Job Security, Company Culture, Work Life Balance",N/A
+754,Fino Payments Bank,3.9k,1.2k,Banking - Mumbai +244 other locations,3.9k,54,16,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+755,EOSGlobe,3.0k,1.2k,Mumbai +27 other locations,3.8k,84,25,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+756,Xyz Company,3.8k,1.2k,"Financial Services - Bangalore , Bengaluru +94 other locations",29.2k,477,--,"Company Culture, Work Life Balance, Job Security",N/A
+757,Amneal Pharmaceuticals,4.2k,1.2k,Pharma - Ahmedabad +33 other locations,5.4k,71,41,"Work Life Balance, Job Security, Company Culture",N/A
+758,FOCUS EDUMATICS,3.0k,1.2k,Coimbatore +39 other locations,2.9k,125,--,N/A,"Job Security, Promotions / Appraisal, Skill Development / Learning"
+759,Cinépolis,3.9k,1.2k,Media & Entertainment - New Delhi +59 other locations,2.7k,66,1,"Company Culture, Job Security",Promotions / Appraisal
+760,Tata Consumer Products,3.6k,1.2k,"FMCG - Bangalore , Bengaluru +191 other locations",4.9k,74,43,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+761,PHN Technology,4.5k,1.2k,Pune +30 other locations,303,33,3,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+762,Health Care Global Enterprises,4.1k,1.2k,"Healthcare - Bangalore , Bengaluru +47 other locations",2.6k,76,58,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+763,Altimetrik,3.7k,1.2k,"IT Services & Consulting - Bangalore , Bengaluru +15 other locations",9.9k,235,67,"Work Life Balance, Salary & Benefits","Job Security, Promotions / Appraisal"
+764,MiraMed Ajuba,3.9k,1.2k,BPO - Chennai +23 other locations,4.3k,58,--,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+765,PNB Housing Finance,3.8k,1.2k,NBFC - New Delhi +138 other locations,4.2k,46,17,N/A,Promotions / Appraisal
+766,Atul,3.9k,1.1k,Chemicals - Valsad +61 other locations,4.8k,90,5,"Job Security, Work Life Balance",Promotions / Appraisal
+767,VIBGYOR Group of Schools,3.5k,1.2k,"Bangalore , Bengaluru +36 other locations",4k,84,203,N/A,"Job Security, Promotions / Appraisal, Company Culture"
+768,Chandigarh University,4.1k,1.2k,Education & Training - Chandigarh +46 other locations,2.5k,92,167,"Work Life Balance, Job Security, Skill Development / Learning",N/A
+769,Chetu,3.3k,1.2k,Software Product - Noida +13 other locations,7.5k,190,2,N/A,"Job Security, Company Culture, Work Life Balance"
+770,Happiest Minds Technologies,3.6k,1.2k,"IT Services & Consulting - Bangalore , Bengaluru +15 other locations",10.5k,139,51,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+771,Worley,4.1k,1.2k,Engineering & Construction - Mumbai +53 other locations,6.5k,119,139,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+772,Burger King,3.9k,1.2k,Hospitality - New Delhi +103 other locations,3.3k,80,6,"Skill Development / Learning, Salary & Benefits",N/A
+773,Piramal Pharma,4.0k,1.1k,Pharma - Mumbai +76 other locations,5.5k,100,202,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+774,Kotak Mahindra Prime,4.0k,1.2k,NBFC - Mumbai +154 other locations,4.3k,56,1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+775,Eaton,3.9k,1.1k,Power - Pune +22 other locations,7.1k,122,--,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+776,BVG India,3.9k,1.1k,Facility Management Services - Pune +106 other locations,3.6k,52,70,Work Life Balance,Promotions / Appraisal
+777,Northern Trust,3.7k,1.1k,"Financial Services - Bangalore , Bengaluru +17 other locations",8.8k,114,1,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+778,ECIL,4.2k,1.1k,"Electronics Manufacturing - Hyderabad , Secunderabad +51 other locations",3.2k,53,1,"Work Life Balance, Company Culture, Work Satisfaction",N/A
+779,Airtel Payments Bank,4.0k,1.1k,"Gurgaon , Gurugram +268 other locations",4.3k,87,26,"Company Culture, Work Life Balance, Job Security",N/A
+780,FDC,3.9k,1.1k,Pharma - Mumbai +110 other locations,3.4k,55,7,Work Life Balance,Promotions / Appraisal
+781,Iffco Tokio General Insurance Co.,4.0k,1.1k,"Insurance - Gurgaon , Gurugram +250 other locations",3.7k,41,2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+782,TEKsystems,3.3k,1.1k,"IT Services & Consulting - Bangalore , Bengaluru +17 other locations",9.4k,123,9,N/A,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+783,iMerit,3.5k,1.1k,IT Services & Consulting - Kolkata +19 other locations,4.9k,103,18,N/A,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+784,Synchrony,4.3k,1.1k,"Financial Services - Hyderabad , Secunderabad +9 other locations",5k,81,38,"Company Culture, Job Security, Work Life Balance",N/A
+785,TE Connectivity,4.1k,1.1k,"Electronics Manufacturing - Bangalore , Bengaluru +19 other locations",6.6k,87,196,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+786,Apexon,3.3k,1.1k,"IT Services & Consulting - Bangalore , Bengaluru +18 other locations",8.3k,148,105,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+787,Barclays Shared Services,3.9k,1.1k,IT Services & Consulting - Chennai +15 other locations,5.2k,33,622,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+788,ManpowerGroup,3.8k,1.1k,"Recruitment - Bangalore , Bengaluru +129 other locations",4.8k,59,22,N/A,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+789,Brillio,3.4k,1.1k,"IT Services & Consulting - Bangalore , Bengaluru +13 other locations",9.2k,137,16,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+790,V5 Global Services,3.9k,1.1k,New Delhi +189 other locations,3.2k,70,11,N/A,Promotions / Appraisal
+791,Nykaa,3.5k,1.1k,Internet - Mumbai +99 other locations,5.7k,125,13,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+792,Bajaj Housing Finance,3.7k,1.1k,NBFC - Pune +149 other locations,5.4k,60,33,N/A,"Work Life Balance, Company Culture, Work Satisfaction"
+793,NextComm Corporation,4.9k,1.1k,Software Product - Chennai +10 other locations,32,6,--,"Company Culture, Work Life Balance, Promotions / Appraisal",N/A
+794,SRL Diagnostics,4.1k,1.1k,Healthcare - Mumbai +123 other locations,2.9k,57,--,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+795,GEP Worldwide,3.7k,1.1k,IT Services & Consulting - Mumbai +16 other locations,8.1k,134,9,Company Culture,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+796,Ocwen Financial Solutions,4.0k,1.1k,"Financial Services - Bangalore , Bengaluru +8 other locations",4.6k,50,34,"Company Culture, Work Life Balance",Promotions / Appraisal
+797,SKF,4.0k,1.1k,Auto Components - Pune +66 other locations,4.2k,68,47,"Company Culture, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Job Security"
+798,OpenText Technologies,3.6k,1.1k,"Software Product - Bangalore , Bengaluru +12 other locations",10k,176,7,Work Life Balance,"Promotions / Appraisal, Job Security, Work Satisfaction"
+799,JSW Cement,4.1k,1.1k,Building Material - Mumbai +125 other locations,3.9k,110,--,"Job Security, Company Culture, Salary & Benefits",Promotions / Appraisal
+800,Punjab National Bank,4.0k,1.1k,Banking - New Delhi +199 other locations,2.7k,41,--,"Job Security, Salary & Benefits",N/A
+801,Incedo,3.1k,1.1k,"IT Services & Consulting - Gurgaon , Gurugram +12 other locations",8.8k,193,36,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+802,Sunknowledge Services,3.7k,1.1k,BPO - Kolkata +13 other locations,3.1k,86,5,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+803,Vestas,4.3k,1.1k,Power - Chennai +46 other locations,4.9k,91,17,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+804,MedPlus,3.6k,1.1k,"Retail - Hyderabad , Secunderabad +110 other locations",3.7k,88,41,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+805,Baroda Global Shared Services,4.0k,1.1k,Analytics & KPO - Gandhinagar +167 other locations,2.6k,102,13,"Work Life Balance, Company Culture, Work Satisfaction",N/A
+806,Hatsun Agro Product,3.9k,1.1k,Food Processing - Chennai +120 other locations,4.2k,70,14,Skill Development / Learning,"Job Security, Promotions / Appraisal"
+807,Mondelez International,4.2k,1.1k,Food Processing - Mumbai +169 other locations,4.2k,64,45,"Salary & Benefits, Company Culture, Work Life Balance",N/A
+808,Decathlon,3.8k,1.1k,"Retail - Bangalore , Bengaluru +65 other locations",3.6k,111,1,"Skill Development / Learning, Company Culture, Job Security","Promotions / Appraisal, Work Life Balance, Salary & Benefits"
+809,R Systems International,3.3k,1.1k,Software Product - Noida +21 other locations,7k,120,46,N/A,"Job Security, Promotions / Appraisal, Skill Development / Learning"
+810,ANZ Banking Group,4.0k,1.1k,"Banking - Bangalore , Bengaluru +17 other locations",7.3k,91,26,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+811,TÜV SÜD,3.9k,1.1k,"Industrial Machinery - Bangalore , Bengaluru +115 other locations",3.5k,68,37,N/A,Promotions / Appraisal
+812,CreditAccess Grameen,4.2k,1.1k,"NBFC - Bangalore , Bengaluru +296 other locations",2.4k,45,9,"Company Culture, Job Security, Work Life Balance",N/A
+813,Samsung Research,3.2k,1.1k,"Consumer Electronics & Appliances - Bangalore , Bengaluru +17 other locations",8.6k,137,1,N/A,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+814,Fidelity National Financial,3.7k,1.1k,"Financial Services - Bangalore , Bengaluru +13 other locations",5.9k,52,4,Job Security,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+815,Tenneco,3.7k,1.1k,Auto Components - Pune +39 other locations,4.7k,64,17,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+816,Nippon Paint India,4.0k,1.1k,Chemicals - Chennai +149 other locations,3.7k,63,3,N/A,Promotions / Appraisal
+817,Edelweiss,3.8k,1.1k,Financial Services - Mumbai +111 other locations,6.4k,59,7,Work Life Balance,Promotions / Appraisal
+818,Shubham Housing Development Finance,3.9k,1.1k,NBFC - New Delhi +141 other locations,3k,44,9,"Skill Development / Learning, Salary & Benefits",N/A
+819,Northern Trust Operating Services,3.9k,1.1k,"Financial Services - Bangalore , Bengaluru +17 other locations",6.6k,105,67,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits"
+820,Best Sellers,4.1k,1.1k,Retail - Mumbai +88 other locations,2.9k,30,3,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+821,Oil And Natural Gas Corporation,4.3k,1.1k,Oil & Gas - Mumbai +76 other locations,3k,71,--,"Work Life Balance, Job Security, Company Culture",N/A
+822,Luminous Power Technologies,4.2k,1.1k,"Consumer Electronics & Appliances - Gurgaon , Gurugram +124 other locations",3.4k,73,30,"Work Life Balance, Job Security, Company Culture",N/A
+823,DENSO,4.2k,1.1k,"Auto Components - Gurgaon , Gurugram +38 other locations",3.7k,78,--,"Job Security, Company Culture, Salary & Benefits",N/A
+824,iSON Xperiences,3.3k,1.1k,Chennai +39 other locations,3.2k,67,6,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+825,Fresenius Kabi,4.1k,1.1k,Pharma - Pune +61 other locations,4.4k,45,4,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal
+826,Rungta Mines,4.0k,1.1k,Metals & Mining - Chaibasa +39 other locations,4.1k,110,4,"Work Life Balance, Job Security, Salary & Benefits",N/A
+827,VMware Software,4.4k,1.1k,"Software Product - Bangalore , Bengaluru +18 other locations",9.2k,145,24,"Salary & Benefits, Company Culture, Work Life Balance",N/A
+828,EbixCash Limited,4.0k,1.1k,Software Product - Noida +75 other locations,5.1k,105,14,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+829,Mu Sigma,2.6k,1.1k,"Analytics & KPO - Bangalore , Bengaluru +15 other locations",6.6k,240,--,N/A,"Work Life Balance, Job Security, Company Culture"
+830,Shriram Pistons & Rings,4.1k,1.1k,Auto Components - Ghaziabad +58 other locations,4.3k,66,--,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+831,Zoho,4.3k,1.1k,Software Product - Chennai +34 other locations,7.6k,529,--,"Job Security, Company Culture, Work Life Balance",N/A
+832,INDIUM,4.0k,1.1k,IT Services & Consulting - Chennai +13 other locations,5.9k,193,100,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal
+833,SHYAM METALICS AND ENERGY,3.6k,1.1k,Iron & Steel - Sambalpur +68 other locations,3.8k,116,4,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+834,Jet Airways,4.6k,1.1k,Aviation - Mumbai +44 other locations,2.2k,23,--,"Skill Development / Learning, Company Culture, Work Satisfaction",N/A
+835,Automotive Manufacturers,3.9k,1.1k,"Automobile - Hyderabad , Secunderabad +137 other locations",5.3k,87,50,N/A,Promotions / Appraisal
+836,RBL FinServe,4.0k,1.1k,Financial Services - Mumbai +322 other locations,2.9k,55,--,"Salary & Benefits, Skill Development / Learning, Work Life Balance",N/A
+837,ZF Steering Gear,3.7k,1.1k,Auto Components - Pune +26 other locations,6.4k,50,3,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+838,Godrej Consumer Products,4.1k,1.1k,FMCG - Mumbai +132 other locations,4.3k,53,--,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal
+839,More Supermarket,3.8k,1.1k,"Retail - Bangalore , Bengaluru +146 other locations",3.5k,76,4,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+840,The Jaypee Group,3.9k,1.1k,Engineering & Construction - Noida +101 other locations,3.4k,46,3,Job Security,"Promotions / Appraisal, Salary & Benefits"
+841,Qualcomm,3.8k,1.1k,"Semiconductors - Hyderabad , Secunderabad +17 other locations",11.5k,269,269,Salary & Benefits,"Work Life Balance, Work Satisfaction, Promotions / Appraisal"
+842,DISH TV,3.5k,1.1k,Broadcasting - Noida +146 other locations,3.3k,64,12,N/A,"Promotions / Appraisal, Job Security, Work Satisfaction"
+843,T-Systems ICT India,3.8k,1.1k,IT Services & Consulting - Pune +15 other locations,7.5k,96,9,Work Life Balance,Promotions / Appraisal
+844,The Ramco Cements,4.2k,1k,Building Material - Chennai +103 other locations,3.6k,62,--,"Job Security, Company Culture, Work Life Balance",N/A
+845,AIIMS,4.1k,1.1k,Education & Training - New Delhi +63 other locations,4.2k,57,--,"Skill Development / Learning, Work Satisfaction, Salary & Benefits",Promotions / Appraisal
+846,Wistron,3.9k,1k,"Electronics Manufacturing - Bangalore , Bengaluru +22 other locations",5.2k,83,--,Job Security,"Promotions / Appraisal, Salary & Benefits"
+847,Jakson Group,4.2k,1.1k,Power - Noida +93 other locations,3.5k,86,26,"Company Culture, Work Life Balance, Skill Development / Learning",N/A
+848,Pacific BPO,3.4k,1.1k,Healthcare - Noida +22 other locations,4.7k,88,20,N/A,"Promotions / Appraisal, Skill Development / Learning, Company Culture"
+849,CenturyPly,3.8k,1k,Furniture & Furnishing - Kolkata +122 other locations,3.7k,74,9,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction"
+850,Prodapt,3.5k,1.1k,IT Services & Consulting - Chennai +14 other locations,8.3k,102,51,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+851,Fidelity Investments,4.1k,1k,"Financial Services - Bangalore , Bengaluru +19 other locations",7.4k,113,3,"Company Culture, Work Life Balance, Job Security",N/A
+852,SBFC Finance,3.7k,1.1k,NBFC - Mumbai +183 other locations,2.5k,65,30,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+853,Wind World,3.9k,1k,Power - Jaisalmer +76 other locations,3.1k,78,6,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits"
+854,Intertek,3.7k,1.1k,Other - New Delhi +98 other locations,3.7k,58,16,N/A,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+855,Baazar Retail Private Limited,4.6k,1k,Retail - Kolkata +97 other locations,1.4k,73,1,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+856,PNC Infratech,3.8k,1k,Engineering & Construction - Agra +83 other locations,3.3k,65,9,Job Security,Promotions / Appraisal
+857,Ion Exchange India,3.8k,1.1k,Waste Management - Mumbai +104 other locations,4.5k,77,23,Job Security,"Promotions / Appraisal, Salary & Benefits"
+858,SYSKA LED Lights,2.8k,1k,Consumer Electronics & Appliances - Pune +157 other locations,2.5k,57,--,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+859,Citco,3.1k,1k,Management Consulting - Pune +12 other locations,7.1k,147,80,N/A,"Promotions / Appraisal, Company Culture, Work Life Balance"
+860,Parexel International,3.8k,1k,"Clinical Research - Hyderabad , Secunderabad +22 other locations",5.6k,78,9,"Company Culture, Job Security",Promotions / Appraisal
+861,Klm Axiva Finvest,4.4k,1k,"Financial Services - Bangalore , Bengaluru +154 other locations",675,432,11,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+862,Saipem,4.1k,1k,Engineering & Construction - Chennai +44 other locations,3.1k,47,4,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+863,ICICI Prudential Mutual Fund,3.8k,1k,Financial Services - Mumbai +154 other locations,5.2k,72,--,"Job Security, Skill Development / Learning, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+864,ACG Worldwide,4.0k,1k,Pharma - Mumbai +28 other locations,3.6k,72,29,Job Security,Promotions / Appraisal
+865,City Union Bank,3.2k,1k,Banking - Chennai +153 other locations,4.8k,98,7,N/A,"Company Culture, Work Life Balance, Promotions / Appraisal"
+866,Thyrocare Technologies,3.6k,1k,Healthcare - Mumbai +68 other locations,4.1k,78,42,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+867,Aarvee Associates,3.9k,1k,"Engineering & Construction - Hyderabad , Secunderabad +151 other locations",3.1k,80,1,Work Life Balance,Promotions / Appraisal
+868,Grant Thornton,3.6k,1k,"Bangalore , Bengaluru +54 other locations",9.7k,107,212,N/A,"Promotions / Appraisal, Salary & Benefits, Work Life Balance"
+869,Apex Group,2.7k,957,"Financial Services - Bangalore , Bengaluru +26 other locations",6.1k,149,285,N/A,"Promotions / Appraisal, Job Security, Company Culture"
+870,OM Logistics,4.0k,1k,New Delhi +115 other locations,3.3k,72,9,"Job Security, Work Life Balance",Promotions / Appraisal
+871,Kirloskar Oil Engines,4.1k,1k,Industrial Machinery - Pune +100 other locations,3.7k,53,12,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+872,PharmEasy,3.7k,1k,Internet - Mumbai +62 other locations,4.8k,84,29,N/A,"Job Security, Promotions / Appraisal"
+873,PayPal,3.8k,1k,"FinTech - Bangalore , Bengaluru +14 other locations",7.9k,222,145,"Work Life Balance, Salary & Benefits, Company Culture","Promotions / Appraisal, Job Security, Skill Development / Learning"
+874,Astral Pipe,4.0k,1k,Building Material - Ahmedabad +121 other locations,3.4k,73,50,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal
+875,Novo Nordisk,4.0k,1k,"Pharma - Bangalore , Bengaluru +66 other locations",5.3k,86,120,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal
+876,Wonder Home Finance,4.7k,1k,Financial Services - Jaipur +112 other locations,611,181,7,"Company Culture, Skill Development / Learning, Work Life Balance",N/A
+877,Centre for Development of Advanced Computing,3.8k,1k,IT Services & Consulting - Pune +35 other locations,6k,106,--,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits, Company Culture"
+878,Intel,4.2k,1k,"Semiconductors - Bangalore , Bengaluru +34 other locations",7.9k,221,73,"Work Life Balance, Company Culture, Work Satisfaction",N/A
+879,Coca-Cola Company,4.1k,1k,"Beverage - Bangalore , Bengaluru +183 other locations",3k,94,7,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+880,Dassault Systemes,3.9k,1k,Software Product - Pune +10 other locations,6.1k,171,3,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+881,Aerial Telecom Solutions,4.2k,1k,Telecom - Mohali +97 other locations,2k,62,1,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+882,Bajaj Motors,3.9k,1k,"Automobile - Gurgaon , Gurugram +76 other locations",3.3k,55,--,"Work Life Balance, Skill Development / Learning",Promotions / Appraisal
+883,Jacobs Engineering Group,4.1k,995,Engineering & Construction - Mumbai +43 other locations,4.5k,75,6,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+884,Rockman Industries,3.8k,1k,Auto Components - Haridwar +36 other locations,3.7k,85,10,Skill Development / Learning,Promotions / Appraisal
+885,Podar International School,4.2k,1k,Education & Training - Mumbai +119 other locations,3k,68,--,"Job Security, Skill Development / Learning, Company Culture",N/A
+886,JK Lakshmi Cement,3.9k,992,Building Material - New Delhi +133 other locations,3.4k,66,1,Work Life Balance,N/A
+887,Johnson Lifts,3.9k,999,Chennai +70 other locations,3.5k,45,--,"Job Security, Work Life Balance",Promotions / Appraisal
+888,Rashmi Metaliks,3.4k,1k,Iron & Steel - Kharagpur +36 other locations,4.1k,89,18,N/A,"Company Culture, Promotions / Appraisal, Work Satisfaction"
+889,Piaggio,3.5k,988,Automobile - Pune +74 other locations,3.7k,64,--,N/A,"Promotions / Appraisal, Job Security, Salary & Benefits"
+890,Nielsen,3.7k,994,"Analytics & KPO - Bangalore , Bengaluru +71 other locations",5.7k,131,--,Work Life Balance,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+891,Salesforce,4.0k,988,"Software Product - Hyderabad , Secunderabad +36 other locations",9.9k,233,71,"Salary & Benefits, Work Life Balance, Company Culture",N/A
+892,Orchids International School,3.0k,1k,"Education & Training - Bangalore , Bengaluru +33 other locations",3.5k,104,24,N/A,"Promotions / Appraisal, Company Culture, Job Security"
+893,Colliers India,3.9k,993,"Real Estate - Bangalore , Bengaluru +42 other locations",4.3k,74,54,N/A,Promotions / Appraisal
+894,Edelweiss Life Insurance,3.7k,991,Insurance - Mumbai +120 other locations,3.5k,51,69,N/A,"Promotions / Appraisal, Work Satisfaction"
+895,Dhoot Transmission,3.7k,990,Power - Aurangabad +38 other locations,3.8k,60,8,N/A,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction"
+896,_VOIS,3.9k,990,IT Services & Consulting - Pune +20 other locations,5.4k,153,60,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal
+897,Spencer's Retail,3.8k,979,Retail - Kolkata +59 other locations,2.8k,52,4,N/A,"Promotions / Appraisal, Work Satisfaction"
+898,Strides Pharma,3.9k,981,"Pharma - Bangalore , Bengaluru +32 other locations",4k,63,--,Skill Development / Learning,"Job Security, Promotions / Appraisal"
+899,Genius Consultants,3.7k,986,Kolkata +89 other locations,3.8k,63,1,N/A,"Promotions / Appraisal, Salary & Benefits"
+900,Adani Ports and SEZ,3.8k,977,Ports & Shipping - Mundra +60 other locations,3.9k,66,--,N/A,Promotions / Appraisal
+901,Viraj Profiles,3.8k,992,Iron & Steel - Mumbai +22 other locations,4.2k,83,8,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+902,MDIndia Health Insurance TPA,3.6k,983,Insurance - Pune +80 other locations,3.4k,61,62,N/A,"Promotions / Appraisal, Salary & Benefits, Work Life Balance"
+903,Barbeque Nation,3.9k,979,"Hospitality - Bangalore , Bengaluru +76 other locations",2.5k,38,7,"Company Culture, Skill Development / Learning, Job Security",N/A
+904,Onward Technologies Inc,3.0k,977,IT Services & Consulting - Pune +63 other locations,5.5k,80,8,N/A,"Job Security, Promotions / Appraisal, Skill Development / Learning"
+905,GAIL,4.4k,969,Oil & Gas - New Delhi +98 other locations,3.1k,69,--,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+906,Fusion Microfinance,4.1k,974,NBFC - New Delhi +256 other locations,2.5k,41,4,"Job Security, Company Culture, Work Life Balance",N/A
+907,Bharat Sanchar Nigam,4.0k,964,"Telecom - Bangalore , Bengaluru +226 other locations",2.5k,41,--,"Work Life Balance, Job Security, Work Satisfaction","Promotions / Appraisal, Salary & Benefits"
+908,JTEKT,4.1k,984,"Auto Components - Gurgaon , Gurugram +25 other locations",3.9k,73,--,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal
+909,Hyundai Mobis,3.8k,963,Auto Components - Chennai +45 other locations,4.7k,67,4,"Job Security, Salary & Benefits",Promotions / Appraisal
+910,Diageo,4.0k,972,"Beverage - Bangalore , Bengaluru +92 other locations",5.6k,72,55,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal
+911,Stanza Living,3.0k,964,"Internet - Bangalore , Bengaluru +33 other locations",3.3k,83,33,N/A,"Job Security, Promotions / Appraisal, Company Culture"
+912,Biocon Biologics,3.6k,957,"Biotechnology - Bangalore , Bengaluru +25 other locations",6k,97,2,N/A,"Promotions / Appraisal, Work Satisfaction, Work Life Balance"
+913,HFCL Limited,3.9k,957,"Telecom - Hyderabad , Secunderabad +106 other locations",3.7k,71,46,Work Life Balance,Promotions / Appraisal
+914,Ahluwalia Contracts India,4.0k,969,Engineering & Construction - New Delhi +54 other locations,3k,58,20,"Job Security, Work Life Balance",N/A
+915,London Stock Exchange Group,3.9k,972,"Financial Services - Bangalore , Bengaluru +11 other locations",8.9k,142,--,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal
+916,Birla Corporation,4.1k,956,Building Material - Kolkata +130 other locations,3.3k,63,1,"Work Life Balance, Job Security, Work Satisfaction",N/A
+917,Kalpataru Limited,4.1k,966,Real Estate - Mumbai +74 other locations,4k,136,19,"Job Security, Work Life Balance, Skill Development / Learning",N/A
+918,Innova Solutions,3.4k,962,"IT Services & Consulting - Hyderabad , Secunderabad +31 other locations",6.9k,90,71,N/A,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+919,Syngenta,4.1k,960,Agriculture - Pune +154 other locations,3.3k,69,56,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal
+920,KIMS Hospital,4.0k,962,"Hyderabad , Secunderabad +50 other locations",3.1k,43,--,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+921,Sahara India Pariwar,3.8k,952,Broadcasting - Lucknow +237 other locations,2.4k,27,--,N/A,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning"
+922,Siemens Gamesa Renewable Power Private Limited,4.1k,951,"Power - Bangalore , Bengaluru +59 other locations",4.8k,55,95,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal
+923,Imperial Auto Industries,3.9k,951,Auto Components - Faridabad +35 other locations,4.2k,62,4,Job Security,"Promotions / Appraisal, Salary & Benefits"
+924,Zf Rane Automotive,4.0k,950,Auto Components - Chennai +47 other locations,3.7k,56,--,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits"
+925,Nexa,3.9k,947,Automobile - New Delhi +196 other locations,2.4k,37,--,Skill Development / Learning,"Promotions / Appraisal, Job Security"
+926,Power Grid Corporation of India,4.4k,942,"Power - Gurgaon , Gurugram +212 other locations",1.9k,67,--,"Salary & Benefits, Company Culture, Work Life Balance",N/A
+927,Altisource,3.6k,942,"Real Estate - Bangalore , Bengaluru +10 other locations",3.9k,41,266,N/A,"Job Security, Promotions / Appraisal, Skill Development / Learning"
+928,Kirloskar Brothers,3.8k,940,Industrial Machinery - Pune +64 other locations,4k,77,12,Work Life Balance,"Promotions / Appraisal, Job Security"
+929,DLF,3.9k,946,"Real Estate - Gurgaon , Gurugram +31 other locations",4k,85,1,Salary & Benefits,Promotions / Appraisal
+930,Tube Investments of India,3.9k,940,Engineering & Construction - Chennai +59 other locations,3.2k,52,18,"Job Security, Skill Development / Learning",Promotions / Appraisal
+931,Zydus Wellness,4.0k,945,FMCG - Ahmedabad +120 other locations,2.4k,80,23,"Salary & Benefits, Company Culture, Work Life Balance",N/A
+932,Muthoot Microfin,4.1k,962,NBFC - Kochi +290 other locations,2.3k,41,8,"Skill Development / Learning, Company Culture, Work Life Balance",N/A
+933,Willis Towers Watson,3.6k,1k,Management Consulting - Mumbai +16 other locations,7k,101,--,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Work Satisfaction, Skill Development / Learning"
+934,1point1 Solutions,3.4k,935,"BPO - Bangalore , Bengaluru +17 other locations",3k,76,53,N/A,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+935,Globant,3.8k,955,IT Services & Consulting - Pune +13 other locations,8.3k,180,75,"Work Life Balance, Company Culture",Promotions / Appraisal
+936,TKIL,4.2k,933,Industrial Machinery - Pune +53 other locations,4.4k,63,1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+937,Aptiv,3.5k,944,"Auto Components - Bangalore , Bengaluru +24 other locations",6.9k,105,3,N/A,"Promotions / Appraisal, Company Culture, Work Life Balance"
+938,Sundaram Finance,4.1k,935,NBFC - Chennai +230 other locations,2.7k,36,18,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+939,Sri Chaitanya Educational Institutions,3.8k,940,"Education & Training - Hyderabad , Secunderabad +94 other locations",2.9k,41,2,N/A,"Promotions / Appraisal, Salary & Benefits, Company Culture"
+940,Ceasefire Industries,3.3k,941,Industrial Machinery - New Delhi +74 other locations,2.5k,110,10,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+941,TK Elevator,3.8k,928,Pune +72 other locations,3.9k,58,23,N/A,"Promotions / Appraisal, Work Satisfaction"
+942,Federal Bank,3.8k,929,Banking - Mumbai +143 other locations,4.6k,110,--,"Job Security, Salary & Benefits","Work Satisfaction, Promotions / Appraisal, Skill Development / Learning"
+943,CaratLane - A Tata Product,4.2k,940,Jewellery - Chennai +72 other locations,2.5k,53,86,"Company Culture, Skill Development / Learning, Job Security",N/A
+944,Patra Corporation,3.7k,944,BPO - Visakhapatnam +19 other locations,4.2k,80,2,Job Security,"Salary & Benefits, Promotions / Appraisal, Skill Development / Learning"
+945,Episource,3.9k,930,IT Services & Consulting - Chennai +17 other locations,3.4k,224,2,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal
+946,Unicharm,4.1k,934,"FMCG - Gurgaon , Gurugram +169 other locations",2.8k,58,4,"Salary & Benefits, Company Culture, Job Security",N/A
+947,HPCL-Mittal Energy Limited,4.3k,931,Petrochemicals - Bathinda +28 other locations,4.2k,40,--,"Work Life Balance, Job Security, Salary & Benefits",N/A
+948,Mando Automotive,3.9k,923,Auto Components - Chennai +20 other locations,4.3k,52,--,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+949,V2 Retail,3.4k,931,Retail - New Delhi +106 other locations,2.4k,67,30,N/A,"Job Security, Company Culture, Work Satisfaction"
+950,CALIBEHR,4.0k,927,IT Services & Consulting - Mumbai +159 other locations,2.6k,62,10,"Company Culture, Skill Development / Learning",Promotions / Appraisal
+951,iQor Global Services,3.4k,923,BPO - Noida +50 other locations,2.4k,31,34,N/A,"Promotions / Appraisal, Job Security, Skill Development / Learning"
+952,Temenos,3.1k,930,Software Product - Chennai +9 other locations,8.4k,89,22,N/A,"Promotions / Appraisal, Company Culture, Work Satisfaction"
+953,H.G. Infra Engineering,4.1k,933,Engineering & Construction - Jaipur +87 other locations,2.7k,88,8,"Salary & Benefits, Skill Development / Learning, Company Culture",N/A
+954,Aircel,4.4k,913,Telecom - New Delhi +114 other locations,1.3k,8,--,"Company Culture, Work Life Balance, Work Satisfaction",N/A
+955,JW Marriott,4.1k,916,Hospitality - Mumbai +42 other locations,2k,43,--,"Job Security, Skill Development / Learning, Company Culture",N/A
+956,MAHLE ANAND Filter Systems,3.9k,919,Auto Components - Pune +29 other locations,3.2k,30,--,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal
+957,Gmmco,4.1k,921,Industrial Machinery - Chennai +85 other locations,2.7k,43,1,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal
+958,Hindustan Zinc,3.7k,916,Metals & Mining - Udaipur +30 other locations,4.1k,47,--,Salary & Benefits,"Company Culture, Work Life Balance, Promotions / Appraisal"
+959,Petrofac,4.3k,911,Oil & Gas - Chennai +40 other locations,2.4k,42,6,"Salary & Benefits, Work Life Balance, Company Culture",N/A
+960,Hikal,3.8k,914,"Pharma - Bangalore , Bengaluru +22 other locations",4.3k,62,74,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits"
+961,Spandana Sphoorty Financial,3.8k,920,"NBFC - Hyderabad , Secunderabad +273 other locations",2.2k,41,2,N/A,N/A
+962,Indira IVF Hospital,3.9k,922,Mumbai +95 other locations,2.7k,50,77,Skill Development / Learning,Promotions / Appraisal
+963,TradeIndia (Infocom Network Private Limited),3.3k,921,Internet - New Delhi +41 other locations,4.3k,77,39,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+964,Vedanta Aluminium,3.9k,918,Metals & Mining - Jharsuguda +37 other locations,4.3k,53,3,"Job Security, Salary & Benefits","Work Satisfaction, Promotions / Appraisal"
+965,Aspire Systems,3.8k,917,IT Services & Consulting - Chennai +22 other locations,8.8k,121,120,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits"
+966,Sri Chaitanya Techno Schools,3.7k,920,"Bangalore , Bengaluru +137 other locations",3.1k,60,--,N/A,"Promotions / Appraisal, Salary & Benefits, Work Life Balance"
+967,MakeMyTrip,3.6k,916,"Internet - Gurgaon , Gurugram +42 other locations",6.6k,130,10,N/A,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits"
+968,Zetwerk,4.0k,917,"Internet - Bangalore , Bengaluru +102 other locations",3.4k,98,25,"Salary & Benefits, Company Culture, Work Life Balance","Job Security, Promotions / Appraisal"
+969,Metropolis Healthcare,4.0k,902,Healthcare - Mumbai +88 other locations,3.3k,52,15,"Skill Development / Learning, Work Life Balance, Job Security",Promotions / Appraisal
+970,Dana Anand,4.1k,915,Auto Components - Pune +45 other locations,2.8k,47,--,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal
+971,CarDekho Group,3.7k,909,"Internet - Gurgaon , Gurugram +76 other locations",4.7k,77,13,N/A,"Promotions / Appraisal, Job Security"
+972,SitusAMC,3.3k,902,"Software Product - Bangalore , Bengaluru +19 other locations",4.7k,68,--,N/A,"Job Security, Promotions / Appraisal, Skill Development / Learning"
+973,Meril,3.7k,917,Pharma - Vapi +68 other locations,4k,63,19,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction"
+974,Thermo Fisher Scientific,3.8k,900,"Biotechnology - Bangalore , Bengaluru +31 other locations",5.6k,91,4,"Work Life Balance, Job Security",Promotions / Appraisal
+975,NetAmbit,3.7k,913,BPO - Noida +111 other locations,2.9k,94,6,N/A,"Job Security, Promotions / Appraisal, Company Culture"
+976,eClinicalWorks,3.8k,903,Software Product - Mumbai +16 other locations,4.8k,73,4,"Job Security, Work Life Balance, Salary & Benefits","Promotions / Appraisal, Skill Development / Learning, Work Satisfaction"
+977,TechnipFMC,4.0k,900,"Industrial Machinery - Hyderabad , Secunderabad +43 other locations",4.8k,75,129,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal
+978,CNH Industrial,3.7k,904,"Automobile - Gurgaon , Gurugram +63 other locations",3.7k,67,9,N/A,"Promotions / Appraisal, Work Satisfaction, Job Security"
+979,Prism Johnson,3.8k,897,Building Material - Mumbai +132 other locations,3.9k,56,--,N/A,Promotions / Appraisal
